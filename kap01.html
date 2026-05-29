@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="da">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Kemi C for HF - Kap. 1</title>
+        <style>
+            /* Her kan du tilføje lidt hurtig styling */
+            body {
+                font-family: Arial, sans-serif;
+                line-height: 1.6;
+                margin: 40px;
+                background-color: #f4f4f4;
+            }
+            .container {
+                background: white;
+                padding: 20px;
+                border-radius: 8px;
+                box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            }
+        </style>
+    </head>
+    <body>
+        <header>
+            <div id="menu-placeholder"></div>
+            <script>
+                fetch("menu.html")
+                    .then((response) => response.text())
+                    .then((data) => {
+                        document.getElementById("menu-placeholder").innerHTML =
+                            data;
+                    });
+            </script>
+        </header>
+        <div class="container">
+            <h1>Kapitel 1: Introduktion til kemi </h1>
+            <h2>1. Formål</h2>
+
+            <p>Formålet med dette kapitel er</p>
+<ul>
+   <li> at give en generel introduktion til faget kemi.</li>
+    <li>at forklare forskellen mellem et rent stof og en blanding.</li>
+    <li>at forklare nogle grundlæggende metoder til adskillelse af stoffer.</li>
+    <li>at forklare hvad en kemisk reaktion er.</li>
+    <li>at definere begrebet masseprocent.</li>
+    <li>at forklare begrebet densitet.</li>
+</ul>
+
+
+    </body>
+</html>

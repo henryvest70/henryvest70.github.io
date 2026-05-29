@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="da">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Kemi C for HF - Kap. 1</title>
+        <style>
+            /* Her kan du tilføje lidt hurtig styling */
+            body {
+                font-family: Arial, sans-serif;
+                line-height: 1.6;
+                margin: 40px;
+                background-color: #f4f4f4;
+            }
+            .container {
+                background: white;
+                padding: 20px;
+                border-radius: 8px;
+                box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            }
+        </style>
+    </head>
+    <body>
+        <header>
+            
+            <div id="menu-placeholder"></div>
+            <script>
+                fetch("menu.html")
+                    .then((response) => response.text())
+                    .then((data) => {
+                        document.getElementById("menu-placeholder").innerHTML =
+                            data;
+                    });
+            </script>
+        </header>
+        <div class="container">
+            <h1>Kemi C for HF - Kapitel 14</h1>
+            <p>Dette er en simpel skabelon, der er let at bygge videre på.</p>
+
+            <ul>
+                <li>Punkt 1</li>
+                <li>Punkt 2</li>
+                <li>Punkt 3</li>
+            </ul>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="da">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Min Hjemmeside</title>
+        <style>
+            /* Her kan du tilføje lidt hurtig styling */
+            body {
+                font-family: Arial, sans-serif;
+                line-height: 1.6;
+                margin: 40px;
+                background-color: #f4f4f4;
+            }
+            .container {
+                background: white;
+                padding: 20px;
+                border-radius: 8px;
+                box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            }
+        </style>
+    </head>
+    <body>
+        <header>
+            <div id="menu-placeholder"></div>
+            <script>
+                fetch("menu.html")
+                    .then((response) => response.text())
+                    .then((data) => {
+                        document.getElementById("menu-placeholder").innerHTML =
+                            data;
+                    });
+            </script>
+        </header>
+        <div class="container">
+            <h1>Kemi C for HF - Forside</h1>
+            <p>
+                "Kemi C for HF" der tidligere var en bog (i pdf-format)
+                foreligger nu som website. Indholdet er stort set det sammen som
+                i 2020-versionen af bogen, dog er der foretaget en del
+                ændringer.
+            </p>
+                <!-- Under "Ekstra kemi" fra hovedmenuen kan man finde ekstra materiale til nogle af kapitlerne. -->
+
+                <!-- "Kemisk ordbog" indeholder knapt 100 opslagsord pt.
+
+Nyeste afsnit er "Kemi B" der indtil videre kun indeholder fire artikler om navngivning.
+-->
+        </p>
+                Henry Vest, Gentofte HF, juni 2026
+            </p>
+        </div>
+    </body>
+</html>
