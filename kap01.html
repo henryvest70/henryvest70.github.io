@@ -1,0 +1,230 @@
+<!doctype html>
+<html lang="da">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Kemi C for HF - Kap. 1</title>
+        <style>
+            /* Her kan du tilføje lidt hurtig styling */
+            body {
+                font-family: Arial, sans-serif;
+                line-height: 1.6;
+                margin: 40px;
+                background-color: #f4f4f4;
+            }
+            .container {
+                background: white;
+                padding: 20px;
+                border-radius: 8px;
+                box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            }
+        </style>
+    </head>
+    <body>
+        <header>
+            <div id="menu-placeholder"></div>
+            <script>
+                fetch("menu.html")
+                    .then((response) => response.text())
+                    .then((data) => {
+                        document.getElementById("menu-placeholder").innerHTML =
+                            data;
+                    });
+            </script>
+        </header>
+        <div class="container">
+            <h1>Kapitel 1: Introduktion til kemi </h1>
+            <h2>1. Formål</h2>
+
+            <p>Formålet med dette kapitel er</p>
+<ul>
+   <li> at give en generel introduktion til faget kemi.</li>
+    <li>at forklare forskellen mellem et rent stof og en blanding.</li>
+    <li>at forklare nogle grundlæggende metoder til adskillelse af stoffer.</li>
+    <li>at forklare hvad en kemisk reaktion er.</li>
+    <li>at definere begrebet masseprocent.</li>
+    <li>at forklare begrebet densitet.</li>
+</ul>
+
+<h2>2. Generelt om kemi</h2>
+
+<p>Kemi er faget der beskæftiger sig med stofs opbygning og stofs omdannelse. Udover at være et fag i sig selv, kan kemi ses som et vigtigt hjælpefag til bl.a. biologi og medicin.</p>
+
+<p>På C-niveau omhandler faget kemi tre områder:</p>
+<ul>
+    <li>Stoffers opbygning.</li>
+    <li>Kemiske reaktioner.</li>
+    <li>Mængdeberegninger.</li>
+</ul>
+
+<h2>3. Stoffers opbygning</h2>
+
+
+<p>Der findes mange millioner kemiske stoffer i denne verden. Nogle eksempler: jern, grafit, vand, cola, træ, sand, beton, stål, plastic, citronsyre ... Faktisk er alt der omgiver os kemisk stof. Det gælder også os selv, menneskekroppen er opbygget at kemiske stoffer. Som det ses, er der tale om meget forskellige stoffer. For at sætte lidt system i dette vivar, er det nødvendigt at dele dem op i nogle kategorier. Den første måde at dele stoffer op på, er at skelne mellem rene stoffer og blandinger.</p>
+
+<h3>3.1 Rene stoffer</h3>
+
+<p>Et rent stof kan vi definere som et stof hvor de dele stoffet er opbygget af, er ens - helt ned på mikroskopisk plan. Et godt eksempel på et rent stof er vand. Vand er opbygget af nogle mindste dele der kaldes molekyler (mere herom i næste kapitel). Molekyler består ganske vist af noget endnu mindre, men prøver vi at splitte vandmolekylerne ad, er vores stof ikke længere vand. Alle vandmolekyler er ens - derfor er vand et rent stof.</p>
+
+<p>Et andet eksempel på et rent stof er sprit - der i kemien kaldes for
+ethanol. De mindste dele i ethanol, er ethanolmolekyler. Alle
+ethanolmolekyler er ens - derfor er ethanol et rent stof.</p>
+
+<h3>3.2 Blandinger</h3>
+
+<p>Hvis man blander to rene stoffer, får man en blanding. Et eksempel
+kunne være en blanding af vand og sprit. De mindste dele er vandmolekyler og
+ethanol-molekyler. Da der er to slags molekyler, er det ikke et rent
+stof.</p>
+
+<p>Der findes flere metoder til at adskille de rene stoffer i en
+blanding. I de følgende afsnit beskrives tre metoder.</p>
+
+<h3>3.3 Filtrering</h3>
+
+<p>Ved en filtrering bruger man et filter til at adskille de rene stoffer
+i en blanding af en væske og fast stof. Lad os sige vi har en blanding
+af sand og vand. Hvis vi hælder blandingen gennem et filter, løber
+vandet gennem filteret mens sandet bliver holdt tilbage. Vi får altså
+adskilt blandingen af vand og sand i de rene stoffer vand og sand
+(idet vi her antager sand er et rent stof).</p>
+
+<figure>
+<img src="figurer/fig01/filtrering.jpg" alt="Filtrering" width="200">
+<figcaption>Filtrering.</figcaption>
+</figure>
+
+<p>En filtrering kan derimod ikke bruges til at adskille salt fra
+vand. De dele salt består af, er så små, at de også ryger gennem et
+filter. Man må derfor benytte en anden metode.</p>
+
+<h3>3.4 Inddampning</h3>
+
+<p>Vil man adskille saltet fra en blanding af salt og vand, kan man
+inddampe blandingen. Når blandingen opvarmes, fordamper vandet, mens
+saltet bliver tilbage.</p>
+
+<h3>3.5 Destillation</h3>
+
+<p>Destillation benyttes til at adskille en blanding af to væsker fra hinanden. Her udnytter man, at to væsker kan have forskellige kogepunkter. Hvis man fx har en blanding af ethanol (sprit) og vand, kan man udnytte at ethanols kogepunkt er på 78 °C mens vands kogepunkt er på 100 °C.</p>
+
+<p>Man benytter den opstilling der er vist på figur 1.2. Blandingen af vand og ethanol befinder sig i destillationskolben til venstre. Ved opvarmning begynder blandingen at fordampe. Da ethanol har det laveste kogepunkt, vil vil der være et større indhold af ethanol i dampen, end der er i den oprindelige væske. Det kunne fx være der var 30 % ethanol i væsken (og dermed 70 % vand), mens der i dampen er 45 % ethanol (og dermed 55 % vand). Dampen kommer over i svaleren, hvor et ydre rør med kølevand sørger for afkøling. Herved fortætter dampen igen til væske. Væsken opsamles i kolben til højre (forlaget). Denne væske har nu et højere indhold af ethanol end den oprindelige væske. Ved at gennemføre destillationen flere gange, kan man opnå en højere og højere ethanolprocent.</p>
+
+<figure>
+<img src="figurer/fig01/destillation2.png" alt="Destillation" width="300">
+<figcaption>Destillation.</figcaption>
+</figure>
+
+<h2>4. En kemisk reaktion</h2>
+
+<p> Nye kemiske stoffer kan dannes ud fra andre kemiske stoffer. Eksempelvis kan kul brænde. Det er det der foregår på et kraftvarmeværk (fx Amagerværket). Ved forbrændingen bruges der oxygen (ilt) der findes i den atmosfæriske luft. Kul og oxygen "forsvinder'' altså, mens til gengæld dannes der to nye stoffer, nemlig vand og carbondioxid. Vi siger at der sker en kemisk reaktion. Kul reagerer med oxygen og danner vand og carbondioxid. Reaktioen kunne vi kortfattet skrive sådan: kul + oxygen → vand + carbondioxid. Normalt skriver man dog en reaktion på en endnu kortere form, mere herom i næste kapitel.</p>
+
+<p>Andre eksempler på kemiske reaktioner:</p>
+<ul>
+    <li>Frugt der bliver brunt ved reaktion med luftens oxygen (fx et overskåret æble).</li>
+    <li>En bil der ruster.</li>
+    <li>Ethanol der brænder.</li>
+    <li>Metal der bliver ætset af syre.</li>
+    <li>Fedt der bliver opløst af ætsnatron (benyttes som afløbsrens).</li>
+</ul>
+
+<h2>5. Mængdeberegninger</h2>
+
+<h3>5.1 Masseprocent</h3>
+
+<p>Når man har en blanding af to (eller flere) stoffer, kan det være nyttigt at angive hvor stor en del af blandingen hvert stof udgør. Dette angives mest fornuftigt procentvis.</p>
+
+<p>Lad os først definere begrebet masse. Masse er hvad en portion stof vejer. Det er altså det vi i daglig tale kalder vægt - men det korrekt ord i kemi (og fysik) er masse. Det måles i gram (eller kilogram eller ton).</p>
+
+<p>Masseprocenten af et stof i en blanding, angiver hvor mange procent af
+blandingens masse stoffets masse udgør. Lad os fx sige vi blander 10 g
+salt med 90 g sand. Blandingens totale masse er dermed 100 g. Af disse
+100 g udgør saltet 10 g. Derfor er masseprocenten for salt 10 %. Masseprocenten for sand er 90 %. Masseprocenterne for alle
+stoffer i blandingen skal naturligvis altid give 100 % tilsammen.</p>
+
+<p>Nu er det selvfølgelig ikke altid sikkert at vi har netop 100 g
+blanding. Det kunne være vi blandede 56 g salt med 130 g sand.</p>
+
+<p>Vi kan helt generelt beregne masseprocenten som<br>
+    <math>
+    <mfrac>
+        <mi>masse af stof</mi>
+        <mn>masse af blanding</mn>
+      </mfrac>
+      <mo>&middot;</mo>100 %
+    </math>
+
+</p>
+
+<p>
+I ovenstående eksempel, kan vi beregne salts masseprocent som<br>
+<math>
+<mfrac>
+    <mi>56 g</mi>
+    <mn>186 g</mn>
+  </mfrac>
+  <mo>&middot;</mo>100 % = 30,1%.
+</math>
+
+</p>
+
+<h3>5.2 Densitet</h3>
+
+<p>1 mL vand vil veje ca. 1 g (den præcise masse afhænger af temperaturen). Tager vi i stedet 1 mL guld vil det veje ca. 19 g. Densiteten af et stof fortæller hvor meget 1 mL af stoffet vejer og måles i g/mL. Vand har altså densiteten 1 g/mL og guld har densiteten 19 g/mL.</p>
+
+<p>Vi betegner densitet med det græske bogstav ρ (rho) og definerer det således:<br>
+<math>
+    ρ =
+<mfrac>
+    <mi>m</mi>
+    <mn>V</mn>
+  </mfrac>
+</math><br>
+hvor m er massen af stoffet og V er volumen.</p>
+
+<p>Formlen kan omskrives:<br>
+<math>
+    ρ =
+<mfrac>
+    <mi>m</mi>
+    <mn>V</mn>
+  </mfrac> <mspace width="20px" /> ⇔ <mspace width="20px" /> m = ρ·V <mspace width="20px" />⇔<mspace width="20px" />
+  V = <mfrac>
+      <mi>m</mi>
+      <mn>ρ</mn>
+    </mfrac>.
+</math>
+</p>
+
+<p><b>Eksempel 1:</b> 20 mL af et stof vejer 34 g. Vi beregner densiteten:<br>
+<math>
+    ρ =
+    <mfrac>
+        <mi>m</mi>
+        <mn>V</mn>
+      </mfrac> =
+<mfrac>
+    <mi>34 g</mi>
+    <mn>20 mL</mn>
+  </mfrac> = 1,7 g/mL.
+</math></p>
+
+<p><b>Eksempel 2:</b> Et stof har densiteten 4,3 g/mL. Hvad vejer 50 mL af stoffet?<br>
+    m = ρ·V = 4,3 g/mL·50 mL = 215 g.</p>
+
+<p><b>Eksempel 3:</b> Et stof har densiteten 3,5 g/mL. Hvad fylder 100 g af stoffet?<br>
+    <math>
+        V =
+        <mfrac>
+            <mi>m</mi>
+            <mn>ρ</mn>
+          </mfrac> =
+    <mfrac>
+        <mi>100 g</mi>
+        <mn>3,5 g/mL</mn>
+      </mfrac> = 28,6 mL.
+    </math>
+</p>
+
+    </body>
+</html>

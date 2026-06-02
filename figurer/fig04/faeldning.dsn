@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--This file was written by TinyCAD Version 2.80.03 Build #514 Production Release
+If you wish to view this file go to http://tinycad.sourceforge.net to
+download a copy.-->
+<TinyCADSheets>
+	<TinyCAD>
+		<NAME>Sheet 1</NAME>
+		<DETAILS>
+			<Size width='1485' height='1050'/>
+			<GUIDES horiz='7' vert='5'/>
+			<TITLE></TITLE>
+			<AUTHOR></AUTHOR>
+			<REVISION>1.0</REVISION>
+			<DOCNUMBER></DOCNUMBER>
+			<ORGANISATION></ORGANISATION>
+			<SHEETS>1 of 1</SHEETS>
+			<SHOWS>1</SHOWS>
+			<DATE></DATE>
+			<GRID spacing='100.00000' snap='0'/>
+		</DETAILS>
+		<FONT id='3'>
+			<HEIGHT>-11</HEIGHT>
+			<WIDTH>5</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='4'>
+			<HEIGHT>-11</HEIGHT>
+			<WIDTH>5</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='5'>
+			<HEIGHT>-11</HEIGHT>
+			<WIDTH>5</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='6'>
+			<HEIGHT>-11</HEIGHT>
+			<WIDTH>5</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<STYLE id='2'>
+			<STYLE>0</STYLE>
+			<COLOR>000000</COLOR>
+			<THICKNESS>1</THICKNESS>
+		</STYLE>
+		<STYLE id='4'>
+			<STYLE>0</STYLE>
+			<COLOR>0000FF</COLOR>
+			<THICKNESS>2</THICKNESS>
+		</STYLE>
+		<STYLE id='6'>
+			<STYLE>0</STYLE>
+			<COLOR>FF0000</COLOR>
+			<THICKNESS>2</THICKNESS>
+		</STYLE>
+		<STYLE id='8'>
+			<STYLE>0</STYLE>
+			<COLOR>0000FF</COLOR>
+			<THICKNESS>2</THICKNESS>
+		</STYLE>
+		<STYLE id='9'>
+			<STYLE>0</STYLE>
+			<COLOR>FF0000</COLOR>
+			<THICKNESS>2</THICKNESS>
+		</STYLE>
+		<STYLE id='10'>
+			<STYLE>0</STYLE>
+			<COLOR>0000FF</COLOR>
+			<THICKNESS>2</THICKNESS>
+		</STYLE>
+		<STYLE id='11'>
+			<STYLE>0</STYLE>
+			<COLOR>008000</COLOR>
+			<THICKNESS>2</THICKNESS>
+		</STYLE>
+		<STYLE id='14'>
+			<STYLE>0</STYLE>
+			<COLOR>008000</COLOR>
+			<THICKNESS>2</THICKNESS>
+		</STYLE>
+		<STYLE id='16'>
+			<STYLE>0</STYLE>
+			<COLOR>0080FF</COLOR>
+			<THICKNESS>2</THICKNESS>
+		</STYLE>
+		<STYLE id='17'>
+			<STYLE>0</STYLE>
+			<COLOR>0080FF</COLOR>
+			<THICKNESS>2</THICKNESS>
+		</STYLE>
+		<STYLE id='18'>
+			<STYLE>0</STYLE>
+			<COLOR>FF0000</COLOR>
+			<THICKNESS>2</THICKNESS>
+		</STYLE>
+		<STYLE id='19'>
+			<STYLE>0</STYLE>
+			<COLOR>008000</COLOR>
+			<THICKNESS>2</THICKNESS>
+		</STYLE>
+		<STYLE id='20'>
+			<STYLE>0</STYLE>
+			<COLOR>0080FF</COLOR>
+			<THICKNESS>2</THICKNESS>
+		</STYLE>
+		<STYLE id='21'>
+			<STYLE>0</STYLE>
+			<COLOR>008000</COLOR>
+			<THICKNESS>2</THICKNESS>
+		</STYLE>
+		<STYLE id='22'>
+			<STYLE>0</STYLE>
+			<COLOR>FF0000</COLOR>
+			<THICKNESS>2</THICKNESS>
+		</STYLE>
+		<STYLE id='23'>
+			<STYLE>0</STYLE>
+			<COLOR>008000</COLOR>
+			<THICKNESS>2</THICKNESS>
+		</STYLE>
+		<STYLE id='24'>
+			<STYLE>0</STYLE>
+			<COLOR>FF0000</COLOR>
+			<THICKNESS>2</THICKNESS>
+		</STYLE>
+		<STYLE id='25'>
+			<STYLE>0</STYLE>
+			<COLOR>008000</COLOR>
+			<THICKNESS>2</THICKNESS>
+		</STYLE>
+		<STYLE id='26'>
+			<STYLE>0</STYLE>
+			<COLOR>FF0000</COLOR>
+			<THICKNESS>2</THICKNESS>
+		</STYLE>
+		<STYLE id='27'>
+			<STYLE>0</STYLE>
+			<COLOR>FF0000</COLOR>
+			<THICKNESS>2</THICKNESS>
+		</STYLE>
+		<STYLE id='28'>
+			<STYLE>0</STYLE>
+			<COLOR>008000</COLOR>
+			<THICKNESS>2</THICKNESS>
+		</STYLE>
+		<STYLE id='29'>
+			<STYLE>0</STYLE>
+			<COLOR>FF0000</COLOR>
+			<THICKNESS>2</THICKNESS>
+		</STYLE>
+		<STYLE id='30'>
+			<STYLE>0</STYLE>
+			<COLOR>0000FF</COLOR>
+			<THICKNESS>2</THICKNESS>
+		</STYLE>
+		<STYLE id='31'>
+			<STYLE>0</STYLE>
+			<COLOR>0080FF</COLOR>
+			<THICKNESS>2</THICKNESS>
+		</STYLE>
+		<FILL id='0'>
+			<INDEX>-1</INDEX>
+			<COLOR>000000</COLOR>
+		</FILL>
+		<OPTIONS>
+			<GRID>1</GRID>
+			<UNITS>0</UNITS>
+			<COLOR_WIRE>FF0000</COLOR_WIRE>
+			<COLOR_BUS>0000FF</COLOR_BUS>
+			<COLOR_JUNCTION>000000</COLOR_JUNCTION>
+			<COLOR_NOCONNECT>000000</COLOR_NOCONNECT>
+			<COLOR_LABEL>208000</COLOR_LABEL>
+			<COLOR_POWER>000000</COLOR_POWER>
+			<COLOR_PIN>4040C0</COLOR_PIN>
+			<COLOR_HIDDEN_PIN>208020</COLOR_HIDDEN_PIN>
+			<COLOR_BACKGROUND>FFFFFF</COLOR_BACKGROUND>
+		</OPTIONS>
+		<ELLIPSE a='52.30769,97.24615' b='58.00000,102.47692' style='4' fill='0'/>
+		<TEXT pos='52.76923,101.24615' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='52.92307,110.93846' b='58.61538,116.16923' style='6' fill='0'/>
+		<ELLIPSE a='50.46154,121.55385' b='56.15385,126.78462' style='11' fill='0'/>
+		<ELLIPSE a='76.92307,122.32308' b='82.61538,127.55385' style='16' fill='0'/>
+		<TEXT pos='54.15385,114.78462' direction='3' font='5' color='000000'>Cl-</TEXT>
+		<TEXT pos='51.07692,125.55385' direction='3' font='6' color='000000'>Ag+</TEXT>
+		<TEXT pos='77.23077,126.16923' direction='3' font='3' color='000000'>NO3-</TEXT>
+		<RECTANGLE a='4.44615,9.98462' b='68.13846,82.29231' style='2' fill='0'/>
+		<RECTANGLE a='81.36923,9.67693' b='145.06154,81.98462' style='2' fill='0'/>
+		<ELLIPSE a='9.83077,13.67692' b='15.52308,18.90769' style='8' fill='0'/>
+		<TEXT pos='10.29231,17.67692' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='31.52307,18.29231' b='37.21538,23.52308' style='8' fill='0'/>
+		<TEXT pos='31.98461,22.29231' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='49.36923,15.36923' b='55.06154,20.60000' style='8' fill='0'/>
+		<TEXT pos='49.83077,19.36923' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='12.44615,29.36923' b='18.13846,34.60000' style='8' fill='0'/>
+		<TEXT pos='12.90769,33.36923' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='43.67692,28.13846' b='49.36923,33.36923' style='8' fill='0'/>
+		<TEXT pos='44.13846,32.13846' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='29.83077,37.52308' b='35.52308,42.75385' style='8' fill='0'/>
+		<TEXT pos='30.29231,41.52308' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='51.21538,41.83077' b='56.90769,47.06154' style='8' fill='0'/>
+		<TEXT pos='51.67692,45.83077' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='15.67692,47.98461' b='21.36923,53.21538' style='8' fill='0'/>
+		<TEXT pos='16.13846,51.98461' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='37.98461,49.83077' b='43.67692,55.06154' style='8' fill='0'/>
+		<TEXT pos='38.44615,53.83077' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='54.75384,53.98461' b='60.44615,59.21538' style='8' fill='0'/>
+		<TEXT pos='55.21538,57.98461' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='10.60000,60.13846' b='16.29231,65.36923' style='8' fill='0'/>
+		<TEXT pos='11.06154,64.13846' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='28.60000,61.67692' b='34.29231,66.90769' style='8' fill='0'/>
+		<TEXT pos='29.06154,65.67692' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='52.13846,65.67692' b='57.83077,70.90769' style='8' fill='0'/>
+		<TEXT pos='52.60000,69.67692' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='22.90769,72.90769' b='28.60000,78.13846' style='8' fill='0'/>
+		<TEXT pos='23.36923,76.90769' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='37.36923,73.52308' b='43.06154,78.75385' style='8' fill='0'/>
+		<TEXT pos='37.83077,77.52308' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='58.29231,73.83077' b='63.98462,79.06154' style='8' fill='0'/>
+		<TEXT pos='58.75385,77.83077' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='18.90769,20.90769' b='24.60000,26.13846' style='9' fill='0'/>
+		<TEXT pos='20.13846,24.75384' direction='3' font='5' color='000000'>Cl-</TEXT>
+		<ELLIPSE a='28.75384,28.44615' b='34.44615,33.67692' style='9' fill='0'/>
+		<TEXT pos='29.98461,32.29230' direction='3' font='5' color='000000'>Cl-</TEXT>
+		<ELLIPSE a='53.21538,25.36923' b='58.90769,30.60000' style='9' fill='0'/>
+		<TEXT pos='54.44615,29.21538' direction='3' font='5' color='000000'>Cl-</TEXT>
+		<ELLIPSE a='39.06154,37.98461' b='44.75385,43.21538' style='9' fill='0'/>
+		<TEXT pos='40.29231,41.83076' direction='3' font='5' color='000000'>Cl-</TEXT>
+		<ELLIPSE a='56.60000,33.52308' b='62.29231,38.75385' style='9' fill='0'/>
+		<TEXT pos='57.83077,37.36923' direction='3' font='5' color='000000'>Cl-</TEXT>
+		<ELLIPSE a='11.67692,39.36923' b='17.36923,44.60000' style='9' fill='0'/>
+		<TEXT pos='12.90769,43.21538' direction='3' font='5' color='000000'>Cl-</TEXT>
+		<ELLIPSE a='22.13846,36.29231' b='27.83077,41.52308' style='9' fill='0'/>
+		<TEXT pos='23.36923,40.13846' direction='3' font='5' color='000000'>Cl-</TEXT>
+		<ELLIPSE a='27.36923,45.52308' b='33.06154,50.75385' style='9' fill='0'/>
+		<TEXT pos='28.60000,49.36923' direction='3' font='5' color='000000'>Cl-</TEXT>
+		<ELLIPSE a='19.83077,58.90769' b='25.52308,64.13846' style='9' fill='0'/>
+		<TEXT pos='21.06154,62.75384' direction='3' font='5' color='000000'>Cl-</TEXT>
+		<ELLIPSE a='38.44615,57.06154' b='44.13846,62.29231' style='9' fill='0'/>
+		<TEXT pos='39.67692,60.90769' direction='3' font='5' color='000000'>Cl-</TEXT>
+		<ELLIPSE a='42.60000,65.67692' b='48.29231,70.90769' style='9' fill='0'/>
+		<TEXT pos='43.83077,69.52307' direction='3' font='5' color='000000'>Cl-</TEXT>
+		<ELLIPSE a='10.29231,73.98461' b='15.98462,79.21538' style='9' fill='0'/>
+		<TEXT pos='11.52308,77.83076' direction='3' font='5' color='000000'>Cl-</TEXT>
+		<ELLIPSE a='47.06154,54.13846' b='52.75385,59.36923' style='9' fill='0'/>
+		<TEXT pos='48.29231,57.98461' direction='3' font='5' color='000000'>Cl-</TEXT>
+		<ELLIPSE a='85.21538,12.90769' b='90.90769,18.13846' style='14' fill='0'/>
+		<TEXT pos='85.83076,16.90769' direction='3' font='6' color='000000'>Ag+</TEXT>
+		<ELLIPSE a='101.98461,14.29231' b='107.67692,19.52308' style='14' fill='0'/>
+		<TEXT pos='102.59999,18.29231' direction='3' font='6' color='000000'>Ag+</TEXT>
+		<ELLIPSE a='118.75384,14.29231' b='124.44615,19.52308' style='14' fill='0'/>
+		<TEXT pos='119.36922,18.29231' direction='3' font='6' color='000000'>Ag+</TEXT>
+		<ELLIPSE a='132.13846,19.52308' b='137.83077,24.75385' style='14' fill='0'/>
+		<TEXT pos='132.75384,23.52308' direction='3' font='6' color='000000'>Ag+</TEXT>
+		<ELLIPSE a='118.29231,26.90769' b='123.98462,32.13846' style='14' fill='0'/>
+		<TEXT pos='118.90769,30.90769' direction='3' font='6' color='000000'>Ag+</TEXT>
+		<ELLIPSE a='100.60000,25.52308' b='106.29231,30.75385' style='14' fill='0'/>
+		<TEXT pos='101.21538,29.52308' direction='3' font='6' color='000000'>Ag+</TEXT>
+		<ELLIPSE a='86.75384,23.21538' b='92.44615,28.44615' style='14' fill='0'/>
+		<TEXT pos='87.36922,27.21538' direction='3' font='6' color='000000'>Ag+</TEXT>
+		<ELLIPSE a='86.29231,31.83077' b='91.98462,37.06154' style='14' fill='0'/>
+		<TEXT pos='86.90769,35.83077' direction='3' font='6' color='000000'>Ag+</TEXT>
+		<ELLIPSE a='96.90769,40.75385' b='102.60000,45.98462' style='14' fill='0'/>
+		<TEXT pos='97.52307,44.75385' direction='3' font='6' color='000000'>Ag+</TEXT>
+		<ELLIPSE a='118.13846,41.67692' b='123.83077,46.90769' style='14' fill='0'/>
+		<TEXT pos='118.75384,45.67692' direction='3' font='6' color='000000'>Ag+</TEXT>
+		<ELLIPSE a='129.67692,36.90769' b='135.36923,42.13846' style='14' fill='0'/>
+		<TEXT pos='130.29230,40.90769' direction='3' font='6' color='000000'>Ag+</TEXT>
+		<ELLIPSE a='130.75384,45.36923' b='136.44615,50.60000' style='14' fill='0'/>
+		<TEXT pos='131.36922,49.36923' direction='3' font='6' color='000000'>Ag+</TEXT>
+		<ELLIPSE a='105.36923,49.06154' b='111.06154,54.29231' style='14' fill='0'/>
+		<TEXT pos='105.98461,53.06154' direction='3' font='6' color='000000'>Ag+</TEXT>
+		<ELLIPSE a='84.75384,52.60000' b='90.44615,57.83077' style='14' fill='0'/>
+		<TEXT pos='85.36922,56.60000' direction='3' font='6' color='000000'>Ag+</TEXT>
+		<ELLIPSE a='99.36923,57.67692' b='105.06154,62.90769' style='14' fill='0'/>
+		<TEXT pos='99.98461,61.67692' direction='3' font='6' color='000000'>Ag+</TEXT>
+		<ELLIPSE a='119.98461,55.52308' b='125.67692,60.75385' style='14' fill='0'/>
+		<TEXT pos='120.59999,59.52308' direction='3' font='6' color='000000'>Ag+</TEXT>
+		<ELLIPSE a='137.21538,55.83077' b='142.90769,61.06154' style='14' fill='0'/>
+		<TEXT pos='137.83076,59.83077' direction='3' font='6' color='000000'>Ag+</TEXT>
+		<ELLIPSE a='85.36923,64.29231' b='91.06154,69.52308' style='14' fill='0'/>
+		<TEXT pos='85.98461,68.29231' direction='3' font='6' color='000000'>Ag+</TEXT>
+		<ELLIPSE a='107.67692,65.67692' b='113.36923,70.90769' style='14' fill='0'/>
+		<TEXT pos='108.29230,69.67692' direction='3' font='6' color='000000'>Ag+</TEXT>
+		<ELLIPSE a='130.60000,66.90769' b='136.29231,72.13846' style='14' fill='0'/>
+		<TEXT pos='131.21538,70.90769' direction='3' font='6' color='000000'>Ag+</TEXT>
+		<ELLIPSE a='118.44615,73.21538' b='124.13846,78.44615' style='14' fill='0'/>
+		<TEXT pos='119.06153,77.21538' direction='3' font='6' color='000000'>Ag+</TEXT>
+		<ELLIPSE a='92.60000,74.90769' b='98.29231,80.13846' style='14' fill='0'/>
+		<TEXT pos='93.21538,78.90769' direction='3' font='6' color='000000'>Ag+</TEXT>
+		<ELLIPSE a='94.54462,17.83077' b='100.23693,23.06154' style='17' fill='0'/>
+		<TEXT pos='94.85231,21.67693' direction='3' font='3' color='000000'>NO3-</TEXT>
+		<ELLIPSE a='109.62154,19.83077' b='115.31385,25.06154' style='17' fill='0'/>
+		<TEXT pos='109.92923,23.67693' direction='3' font='3' color='000000'>NO3-</TEXT>
+		<ELLIPSE a='111.46769,10.60000' b='117.16000,15.83077' style='17' fill='0'/>
+		<TEXT pos='111.77538,14.44616' direction='3' font='3' color='000000'>NO3-</TEXT>
+		<ELLIPSE a='131.92923,10.44615' b='137.62154,15.67692' style='17' fill='0'/>
+		<TEXT pos='132.23692,14.29231' direction='3' font='3' color='000000'>NO3-</TEXT>
+		<ELLIPSE a='135.00616,26.44615' b='140.69847,31.67692' style='17' fill='0'/>
+		<TEXT pos='135.31385,30.29231' direction='3' font='3' color='000000'>NO3-</TEXT>
+		<ELLIPSE a='125.31385,29.83077' b='131.00616,35.06154' style='17' fill='0'/>
+		<TEXT pos='125.62154,33.67693' direction='3' font='3' color='000000'>NO3-</TEXT>
+		<ELLIPSE a='111.62154,32.60000' b='117.31385,37.83077' style='17' fill='0'/>
+		<TEXT pos='111.92923,36.44616' direction='3' font='3' color='000000'>NO3-</TEXT>
+		<ELLIPSE a='95.77539,32.13846' b='101.46770,37.36923' style='17' fill='0'/>
+		<TEXT pos='96.08308,35.98462' direction='3' font='3' color='000000'>NO3-</TEXT>
+		<ELLIPSE a='87.46769,41.21538' b='93.16000,46.44615' style='17' fill='0'/>
+		<TEXT pos='87.77538,45.06154' direction='3' font='3' color='000000'>NO3-</TEXT>
+		<ELLIPSE a='92.54462,52.90769' b='98.23693,58.13846' style='17' fill='0'/>
+		<TEXT pos='92.85231,56.75385' direction='3' font='3' color='000000'>NO3-</TEXT>
+		<ELLIPSE a='110.54462,58.75385' b='116.23693,63.98462' style='17' fill='0'/>
+		<TEXT pos='110.85231,62.60001' direction='3' font='3' color='000000'>NO3-</TEXT>
+		<ELLIPSE a='109.92923,41.52308' b='115.62154,46.75385' style='17' fill='0'/>
+		<TEXT pos='110.23692,45.36924' direction='3' font='3' color='000000'>NO3-</TEXT>
+		<ELLIPSE a='121.46769,49.06154' b='127.16000,54.29231' style='17' fill='0'/>
+		<TEXT pos='121.77538,52.90770' direction='3' font='3' color='000000'>NO3-</TEXT>
+		<ELLIPSE a='130.23693,58.29231' b='135.92924,63.52308' style='17' fill='0'/>
+		<TEXT pos='130.54462,62.13847' direction='3' font='3' color='000000'>NO3-</TEXT>
+		<ELLIPSE a='117.16000,66.44615' b='122.85231,71.67692' style='17' fill='0'/>
+		<TEXT pos='117.46769,70.29231' direction='3' font='3' color='000000'>NO3-</TEXT>
+		<ELLIPSE a='101.46769,73.52308' b='107.16000,78.75385' style='17' fill='0'/>
+		<TEXT pos='101.77538,77.36924' direction='3' font='3' color='000000'>NO3-</TEXT>
+		<ELLIPSE a='94.23693,65.06154' b='99.92924,70.29231' style='17' fill='0'/>
+		<TEXT pos='94.54462,68.90770' direction='3' font='3' color='000000'>NO3-</TEXT>
+		<ELLIPSE a='136.69846,75.98461' b='142.39077,81.21538' style='17' fill='0'/>
+		<TEXT pos='137.00615,79.83077' direction='3' font='3' color='000000'>NO3-</TEXT>
+		<RECTANGLE a='4.60000,88.29231' b='145.80000,139.09231' style='2' fill='0'/>
+		<ELLIPSE a='84.10769,92.96923' b='89.80000,98.20000' style='10' fill='0'/>
+		<TEXT pos='84.56923,96.96923' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='107.50769,98.36923' b='113.20000,103.60000' style='10' fill='0'/>
+		<TEXT pos='107.96923,102.36923' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='113.50769,113.76923' b='119.20000,119.00000' style='10' fill='0'/>
+		<TEXT pos='113.96923,117.76923' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='102.70769,122.36923' b='108.40000,127.60000' style='10' fill='0'/>
+		<TEXT pos='103.16923,126.36923' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='131.10769,95.56923' b='136.80000,100.80000' style='10' fill='0'/>
+		<TEXT pos='131.56923,99.56923' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='131.50769,116.16923' b='137.20000,121.40000' style='10' fill='0'/>
+		<TEXT pos='131.96923,120.16923' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='121.90769,126.76923' b='127.60000,132.00000' style='10' fill='0'/>
+		<TEXT pos='122.36923,130.76923' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='75.50769,109.16923' b='81.20000,114.40000' style='10' fill='0'/>
+		<TEXT pos='75.96923,113.16923' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='60.70769,128.56923' b='66.40000,133.80000' style='10' fill='0'/>
+		<TEXT pos='61.16923,132.56923' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='39.50769,94.56923' b='45.20000,99.80000' style='10' fill='0'/>
+		<TEXT pos='39.96923,98.56923' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='31.70769,104.56923' b='37.40000,109.80000' style='10' fill='0'/>
+		<TEXT pos='32.16923,108.56923' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='17.70769,93.76923' b='23.40000,99.00000' style='10' fill='0'/>
+		<TEXT pos='18.16923,97.76923' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='13.70769,109.16923' b='19.40000,114.40000' style='10' fill='0'/>
+		<TEXT pos='14.16923,113.16923' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='24.50769,122.36923' b='30.20000,127.60000' style='10' fill='0'/>
+		<TEXT pos='24.96923,126.36923' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='37.30769,130.16923' b='43.00000,135.40000' style='10' fill='0'/>
+		<TEXT pos='37.76923,134.16923' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='9.70769,127.56923' b='15.40000,132.80000' style='10' fill='0'/>
+		<TEXT pos='10.16923,131.56923' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='90.90769,131.36923' b='96.60000,136.60000' style='10' fill='0'/>
+		<TEXT pos='91.36923,135.36923' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='38.70769,106.56923' b='44.40000,111.80000' style='18' fill='0'/>
+		<TEXT pos='39.93847,110.41539' direction='3' font='5' color='000000'>Cl-</TEXT>
+		<ELLIPSE a='28.50769,92.36923' b='34.20000,97.60000' style='18' fill='0'/>
+		<TEXT pos='29.73847,96.21539' direction='3' font='5' color='000000'>Cl-</TEXT>
+		<ELLIPSE a='7.50769,100.56923' b='13.20000,105.80000' style='18' fill='0'/>
+		<TEXT pos='8.73847,104.41539' direction='3' font='5' color='000000'>Cl-</TEXT>
+		<ELLIPSE a='36.30769,117.36923' b='42.00000,122.60000' style='18' fill='0'/>
+		<TEXT pos='37.53847,121.21539' direction='3' font='5' color='000000'>Cl-</TEXT>
+		<ELLIPSE a='45.30769,131.16923' b='51.00000,136.40000' style='18' fill='0'/>
+		<TEXT pos='46.53847,135.01539' direction='3' font='5' color='000000'>Cl-</TEXT>
+		<ELLIPSE a='70.70769,131.16923' b='76.40000,136.40000' style='18' fill='0'/>
+		<TEXT pos='71.93847,135.01539' direction='3' font='5' color='000000'>Cl-</TEXT>
+		<ELLIPSE a='67.30769,92.76923' b='73.00000,98.00000' style='18' fill='0'/>
+		<TEXT pos='68.53847,96.61539' direction='3' font='5' color='000000'>Cl-</TEXT>
+		<ELLIPSE a='92.10769,107.36923' b='97.80000,112.60000' style='18' fill='0'/>
+		<TEXT pos='93.33847,111.21539' direction='3' font='5' color='000000'>Cl-</TEXT>
+		<ELLIPSE a='103.70769,107.56923' b='109.40000,112.80000' style='18' fill='0'/>
+		<TEXT pos='104.93847,111.41539' direction='3' font='5' color='000000'>Cl-</TEXT>
+		<ELLIPSE a='120.50769,104.16923' b='126.20000,109.40000' style='18' fill='0'/>
+		<TEXT pos='121.73847,108.01539' direction='3' font='5' color='000000'>Cl-</TEXT>
+		<ELLIPSE a='130.50769,131.96923' b='136.20000,137.20000' style='18' fill='0'/>
+		<TEXT pos='131.73847,135.81539' direction='3' font='5' color='000000'>Cl-</TEXT>
+		<ELLIPSE a='119.90769,89.96923' b='125.60000,95.20000' style='18' fill='0'/>
+		<TEXT pos='121.13847,93.81539' direction='3' font='5' color='000000'>Cl-</TEXT>
+		<ELLIPSE a='22.10769,108.96923' b='27.80000,114.20000' style='19' fill='0'/>
+		<TEXT pos='22.72307,112.96923' direction='3' font='6' color='000000'>Ag+</TEXT>
+		<ELLIPSE a='10.10769,116.16923' b='15.80000,121.40000' style='19' fill='0'/>
+		<TEXT pos='10.72307,120.16923' direction='3' font='6' color='000000'>Ag+</TEXT>
+		<ELLIPSE a='16.90769,129.36923' b='22.60000,134.60000' style='19' fill='0'/>
+		<TEXT pos='17.52307,133.36923' direction='3' font='6' color='000000'>Ag+</TEXT>
+		<ELLIPSE a='53.90769,91.16923' b='59.60000,96.40000' style='19' fill='0'/>
+		<TEXT pos='54.52307,95.16923' direction='3' font='6' color='000000'>Ag+</TEXT>
+		<ELLIPSE a='60.70769,106.36923' b='66.40000,111.60000' style='19' fill='0'/>
+		<TEXT pos='61.32307,110.36923' direction='3' font='6' color='000000'>Ag+</TEXT>
+		<ELLIPSE a='90.70769,118.16923' b='96.40000,123.40000' style='19' fill='0'/>
+		<TEXT pos='91.32307,122.16923' direction='3' font='6' color='000000'>Ag+</TEXT>
+		<ELLIPSE a='107.50769,130.96923' b='113.20000,136.20000' style='19' fill='0'/>
+		<TEXT pos='108.12307,134.96923' direction='3' font='6' color='000000'>Ag+</TEXT>
+		<ELLIPSE a='135.50769,107.56923' b='141.20000,112.80000' style='19' fill='0'/>
+		<TEXT pos='136.12307,111.56923' direction='3' font='6' color='000000'>Ag+</TEXT>
+		<ELLIPSE a='96.70769,93.36923' b='102.40000,98.60000' style='19' fill='0'/>
+		<TEXT pos='97.32307,97.36923' direction='3' font='6' color='000000'>Ag+</TEXT>
+		<ELLIPSE a='103.25230,115.76923' b='108.94461,121.00000' style='20' fill='0'/>
+		<TEXT pos='103.56000,119.61538' direction='3' font='3' color='000000'>NO3-</TEXT>
+		<ELLIPSE a='65.25230,117.16923' b='70.94461,122.40000' style='20' fill='0'/>
+		<TEXT pos='65.56000,121.01538' direction='3' font='3' color='000000'>NO3-</TEXT>
+		<ELLIPSE a='28.05230,112.96923' b='33.74461,118.20000' style='20' fill='0'/>
+		<TEXT pos='28.36000,116.81538' direction='3' font='3' color='000000'>NO3-</TEXT>
+		<ELLIPSE a='29.25230,131.56923' b='34.94461,136.80000' style='20' fill='0'/>
+		<TEXT pos='29.56000,135.41538' direction='3' font='3' color='000000'>NO3-</TEXT>
+		<ELLIPSE a='137.05230,126.16923' b='142.74461,131.40000' style='20' fill='0'/>
+		<TEXT pos='137.36000,130.01538' direction='3' font='3' color='000000'>NO3-</TEXT>
+		<ELLIPSE a='125.05230,115.56923' b='130.74461,120.80000' style='20' fill='0'/>
+		<TEXT pos='125.36000,119.41538' direction='3' font='3' color='000000'>NO3-</TEXT>
+		<ELLIPSE a='110.25230,90.36923' b='115.94461,95.60000' style='20' fill='0'/>
+		<TEXT pos='110.56000,94.21538' direction='3' font='3' color='000000'>NO3-</TEXT>
+		<ELLIPSE a='74.45230,98.76923' b='80.14461,104.00000' style='20' fill='0'/>
+		<TEXT pos='74.76000,102.61538' direction='3' font='3' color='000000'>NO3-</TEXT>
+		<ELLIPSE a='137.85230,90.96923' b='143.54461,96.20000' style='20' fill='0'/>
+		<TEXT pos='138.16000,94.81538' direction='3' font='3' color='000000'>NO3-</TEXT>
+		<ELLIPSE a='7.05230,90.56923' b='12.74461,95.80000' style='20' fill='0'/>
+		<TEXT pos='7.36000,94.41538' direction='3' font='3' color='000000'>NO3-</TEXT>
+		<ELLIPSE a='24.05230,101.56923' b='29.74461,106.80000' style='20' fill='0'/>
+		<TEXT pos='24.36000,105.41538' direction='3' font='3' color='000000'>NO3-</TEXT>
+		<RECTANGLE a='4.20000,142.60000' b='145.40000,193.40000' style='2' fill='0'/>
+		<ELLIPSE a='40.90769,187.96923' b='46.60000,193.20000' style='21' fill='0'/>
+		<TEXT pos='41.52307,191.96923' direction='3' font='6' color='000000'>Ag+</TEXT>
+		<ELLIPSE a='46.50769,187.96923' b='52.20000,193.20000' style='22' fill='0'/>
+		<TEXT pos='47.73847,191.81539' direction='3' font='5' color='000000'>Cl-</TEXT>
+		<ELLIPSE a='51.90769,188.16923' b='57.60000,193.40000' style='23' fill='0'/>
+		<TEXT pos='52.52307,192.16923' direction='3' font='6' color='000000'>Ag+</TEXT>
+		<ELLIPSE a='57.50769,188.16923' b='63.20000,193.40000' style='24' fill='0'/>
+		<TEXT pos='58.73847,192.01539' direction='3' font='5' color='000000'>Cl-</TEXT>
+		<ELLIPSE a='63.10769,188.36923' b='68.80000,193.60000' style='23' fill='0'/>
+		<TEXT pos='63.72307,192.36923' direction='3' font='6' color='000000'>Ag+</TEXT>
+		<ELLIPSE a='68.70769,188.36923' b='74.40000,193.60000' style='24' fill='0'/>
+		<TEXT pos='69.93847,192.21539' direction='3' font='5' color='000000'>Cl-</TEXT>
+		<ELLIPSE a='74.30769,188.56923' b='80.00000,193.80000' style='23' fill='0'/>
+		<TEXT pos='74.92307,192.56923' direction='3' font='6' color='000000'>Ag+</TEXT>
+		<ELLIPSE a='79.90769,188.56923' b='85.60000,193.80000' style='24' fill='0'/>
+		<TEXT pos='81.13847,192.41539' direction='3' font='5' color='000000'>Cl-</TEXT>
+		<ELLIPSE a='46.30769,183.16923' b='52.00000,188.40000' style='25' fill='0'/>
+		<TEXT pos='46.92307,187.16923' direction='3' font='6' color='000000'>Ag+</TEXT>
+		<ELLIPSE a='51.90769,183.16923' b='57.60000,188.40000' style='26' fill='0'/>
+		<TEXT pos='53.13847,187.01539' direction='3' font='5' color='000000'>Cl-</TEXT>
+		<ELLIPSE a='57.30769,183.36923' b='63.00000,188.60000' style='25' fill='0'/>
+		<TEXT pos='57.92307,187.36923' direction='3' font='6' color='000000'>Ag+</TEXT>
+		<ELLIPSE a='62.90769,183.36923' b='68.60000,188.60000' style='26' fill='0'/>
+		<TEXT pos='64.13847,187.21539' direction='3' font='5' color='000000'>Cl-</TEXT>
+		<ELLIPSE a='68.50769,183.56923' b='74.20000,188.80000' style='25' fill='0'/>
+		<TEXT pos='69.12307,187.56923' direction='3' font='6' color='000000'>Ag+</TEXT>
+		<ELLIPSE a='74.10769,183.56923' b='79.80000,188.80000' style='26' fill='0'/>
+		<TEXT pos='75.33847,187.41539' direction='3' font='5' color='000000'>Cl-</TEXT>
+		<ELLIPSE a='79.70769,183.76923' b='85.40000,189.00000' style='25' fill='0'/>
+		<TEXT pos='80.32307,187.76923' direction='3' font='6' color='000000'>Ag+</TEXT>
+		<ELLIPSE a='41.10769,183.16923' b='46.80000,188.40000' style='27' fill='0'/>
+		<TEXT pos='42.33847,187.01539' direction='3' font='5' color='000000'>Cl-</TEXT>
+		<ELLIPSE a='40.90769,178.16923' b='46.60000,183.40000' style='28' fill='0'/>
+		<TEXT pos='41.52307,182.16923' direction='3' font='6' color='000000'>Ag+</TEXT>
+		<ELLIPSE a='46.50769,178.16923' b='52.20000,183.40000' style='29' fill='0'/>
+		<TEXT pos='47.73847,182.01539' direction='3' font='5' color='000000'>Cl-</TEXT>
+		<ELLIPSE a='51.90769,178.36923' b='57.60000,183.60000' style='28' fill='0'/>
+		<TEXT pos='52.52307,182.36923' direction='3' font='6' color='000000'>Ag+</TEXT>
+		<ELLIPSE a='57.50769,178.36923' b='63.20000,183.60000' style='29' fill='0'/>
+		<TEXT pos='58.73847,182.21539' direction='3' font='5' color='000000'>Cl-</TEXT>
+		<ELLIPSE a='63.10769,178.56923' b='68.80000,183.80000' style='28' fill='0'/>
+		<TEXT pos='63.72307,182.56923' direction='3' font='6' color='000000'>Ag+</TEXT>
+		<ELLIPSE a='68.70769,178.56923' b='74.40000,183.80000' style='29' fill='0'/>
+		<TEXT pos='69.93847,182.41539' direction='3' font='5' color='000000'>Cl-</TEXT>
+		<ELLIPSE a='74.30769,178.76923' b='80.00000,184.00000' style='28' fill='0'/>
+		<TEXT pos='74.92307,182.76923' direction='3' font='6' color='000000'>Ag+</TEXT>
+		<ELLIPSE a='79.90769,178.76923' b='85.60000,184.00000' style='29' fill='0'/>
+		<TEXT pos='81.13847,182.61539' direction='3' font='5' color='000000'>Cl-</TEXT>
+		<ELLIPSE a='12.50769,145.96923' b='18.20000,151.20000' style='30' fill='0'/>
+		<TEXT pos='12.96923,149.96923' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='28.10769,151.76923' b='33.80000,157.00000' style='30' fill='0'/>
+		<TEXT pos='28.56923,155.76923' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='49.10769,143.96923' b='54.80000,149.20000' style='30' fill='0'/>
+		<TEXT pos='49.56923,147.96923' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='55.70769,154.36923' b='61.40000,159.60000' style='30' fill='0'/>
+		<TEXT pos='56.16923,158.36923' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='70.30769,146.96923' b='76.00000,152.20000' style='30' fill='0'/>
+		<TEXT pos='70.76923,150.96923' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='78.90769,157.96923' b='84.60000,163.20000' style='30' fill='0'/>
+		<TEXT pos='79.36923,161.96923' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='90.50769,146.76923' b='96.20000,152.00000' style='30' fill='0'/>
+		<TEXT pos='90.96923,150.76923' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='93.30769,159.96923' b='99.00000,165.20000' style='30' fill='0'/>
+		<TEXT pos='93.76923,163.96923' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='109.30769,147.56923' b='115.00000,152.80000' style='30' fill='0'/>
+		<TEXT pos='109.76923,151.56923' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='112.30769,159.16923' b='118.00000,164.40000' style='30' fill='0'/>
+		<TEXT pos='112.76923,163.16923' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='124.90769,146.96923' b='130.60000,152.20000' style='30' fill='0'/>
+		<TEXT pos='125.36923,150.96923' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='132.30769,159.96923' b='138.00000,165.20000' style='30' fill='0'/>
+		<TEXT pos='132.76923,163.96923' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='133.30769,173.16923' b='139.00000,178.40000' style='30' fill='0'/>
+		<TEXT pos='133.76923,177.16923' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='119.90769,170.76923' b='125.60000,176.00000' style='30' fill='0'/>
+		<TEXT pos='120.36923,174.76923' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='107.90769,170.16923' b='113.60000,175.40000' style='30' fill='0'/>
+		<TEXT pos='108.36923,174.16923' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='92.70769,168.76923' b='98.40000,174.00000' style='30' fill='0'/>
+		<TEXT pos='93.16923,172.76923' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='69.70769,169.36923' b='75.40000,174.60000' style='30' fill='0'/>
+		<TEXT pos='70.16923,173.36923' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='52.70769,165.76923' b='58.40000,171.00000' style='30' fill='0'/>
+		<TEXT pos='53.16923,169.76923' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='37.90769,165.36923' b='43.60000,170.60000' style='30' fill='0'/>
+		<TEXT pos='38.36923,169.36923' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='20.30769,164.16923' b='26.00000,169.40000' style='30' fill='0'/>
+		<TEXT pos='20.76923,168.16923' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='10.90769,157.96923' b='16.60000,163.20000' style='30' fill='0'/>
+		<TEXT pos='11.36923,161.96923' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='7.70769,176.36923' b='13.40000,181.60000' style='30' fill='0'/>
+		<TEXT pos='8.16923,180.36923' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='21.90769,179.16923' b='27.60000,184.40000' style='30' fill='0'/>
+		<TEXT pos='22.36923,183.16923' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='31.90769,177.96923' b='37.60000,183.20000' style='30' fill='0'/>
+		<TEXT pos='32.36923,181.96923' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='90.90769,186.76923' b='96.60000,192.00000' style='30' fill='0'/>
+		<TEXT pos='91.36923,190.76923' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='100.70769,179.16923' b='106.40000,184.40000' style='30' fill='0'/>
+		<TEXT pos='101.16923,183.16923' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='109.90769,188.16923' b='115.60000,193.40000' style='30' fill='0'/>
+		<TEXT pos='110.36923,192.16923' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='121.10769,180.96923' b='126.80000,186.20000' style='30' fill='0'/>
+		<TEXT pos='121.56923,184.96923' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='131.10769,185.76923' b='136.80000,191.00000' style='30' fill='0'/>
+		<TEXT pos='131.56923,189.76923' direction='3' font='4' color='000000'>Na+</TEXT>
+		<ELLIPSE a='34.45230,144.56923' b='40.14461,149.80000' style='31' fill='0'/>
+		<TEXT pos='34.76000,148.41538' direction='3' font='3' color='000000'>NO3-</TEXT>
+		<ELLIPSE a='19.65230,151.36923' b='25.34461,156.60000' style='31' fill='0'/>
+		<TEXT pos='19.96000,155.21538' direction='3' font='3' color='000000'>NO3-</TEXT>
+		<ELLIPSE a='6.65230,168.76923' b='12.34461,174.00000' style='31' fill='0'/>
+		<TEXT pos='6.96000,172.61538' direction='3' font='3' color='000000'>NO3-</TEXT>
+		<ELLIPSE a='12.25230,185.36923' b='17.94461,190.60000' style='31' fill='0'/>
+		<TEXT pos='12.56000,189.21538' direction='3' font='3' color='000000'>NO3-</TEXT>
+		<ELLIPSE a='24.85230,185.96923' b='30.54461,191.20000' style='31' fill='0'/>
+		<TEXT pos='25.16000,189.81538' direction='3' font='3' color='000000'>NO3-</TEXT>
+		<ELLIPSE a='28.85230,168.16923' b='34.54461,173.40000' style='31' fill='0'/>
+		<TEXT pos='29.16000,172.01538' direction='3' font='3' color='000000'>NO3-</TEXT>
+		<ELLIPSE a='39.05230,153.56923' b='44.74461,158.80000' style='31' fill='0'/>
+		<TEXT pos='39.36000,157.41538' direction='3' font='3' color='000000'>NO3-</TEXT>
+		<ELLIPSE a='47.65230,160.16923' b='53.34461,165.40000' style='31' fill='0'/>
+		<TEXT pos='47.96000,164.01538' direction='3' font='3' color='000000'>NO3-</TEXT>
+		<ELLIPSE a='60.45230,170.36923' b='66.14461,175.60000' style='31' fill='0'/>
+		<TEXT pos='60.76000,174.21538' direction='3' font='3' color='000000'>NO3-</TEXT>
+		<ELLIPSE a='69.45230,160.36923' b='75.14461,165.60000' style='31' fill='0'/>
+		<TEXT pos='69.76000,164.21538' direction='3' font='3' color='000000'>NO3-</TEXT>
+		<ELLIPSE a='61.45230,145.56923' b='67.14461,150.80000' style='31' fill='0'/>
+		<TEXT pos='61.76000,149.41538' direction='3' font='3' color='000000'>NO3-</TEXT>
+		<ELLIPSE a='81.65230,169.36923' b='87.34461,174.60000' style='31' fill='0'/>
+		<TEXT pos='81.96000,173.21538' direction='3' font='3' color='000000'>NO3-</TEXT>
+		<ELLIPSE a='81.25230,146.36923' b='86.94461,151.60000' style='31' fill='0'/>
+		<TEXT pos='81.56000,150.21538' direction='3' font='3' color='000000'>NO3-</TEXT>
+		<ELLIPSE a='102.65230,153.56923' b='108.34461,158.80000' style='31' fill='0'/>
+		<TEXT pos='102.96000,157.41538' direction='3' font='3' color='000000'>NO3-</TEXT>
+		<ELLIPSE a='103.25230,161.16923' b='108.94461,166.40000' style='31' fill='0'/>
+		<TEXT pos='103.56000,165.01538' direction='3' font='3' color='000000'>NO3-</TEXT>
+		<ELLIPSE a='89.85230,179.96923' b='95.54461,185.20000' style='31' fill='0'/>
+		<TEXT pos='90.16000,183.81538' direction='3' font='3' color='000000'>NO3-</TEXT>
+		<ELLIPSE a='110.45230,178.76923' b='116.14461,184.00000' style='31' fill='0'/>
+		<TEXT pos='110.76000,182.61538' direction='3' font='3' color='000000'>NO3-</TEXT>
+		<ELLIPSE a='120.25230,162.16923' b='125.94461,167.40000' style='31' fill='0'/>
+		<TEXT pos='120.56000,166.01538' direction='3' font='3' color='000000'>NO3-</TEXT>
+		<ELLIPSE a='118.05230,152.76923' b='123.74461,158.00000' style='31' fill='0'/>
+		<TEXT pos='118.36000,156.61538' direction='3' font='3' color='000000'>NO3-</TEXT>
+		<ELLIPSE a='131.85230,147.76923' b='137.54461,153.00000' style='31' fill='0'/>
+		<TEXT pos='132.16000,151.61538' direction='3' font='3' color='000000'>NO3-</TEXT>
+		<ELLIPSE a='136.45230,154.56923' b='142.14461,159.80000' style='31' fill='0'/>
+		<TEXT pos='136.76000,158.41538' direction='3' font='3' color='000000'>NO3-</TEXT>
+		<ELLIPSE a='137.85230,167.76923' b='143.54461,173.00000' style='31' fill='0'/>
+		<TEXT pos='138.16000,171.61538' direction='3' font='3' color='000000'>NO3-</TEXT>
+		<ELLIPSE a='136.45230,179.16923' b='142.14461,184.40000' style='31' fill='0'/>
+		<TEXT pos='136.76000,183.01538' direction='3' font='3' color='000000'>NO3-</TEXT>
+	</TinyCAD>
+</TinyCADSheets>

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--This file was written by TinyCAD Version 2.80.03 Build #514 Production Release
+If you wish to view this file go to http://tinycad.sourceforge.net to
+download a copy.-->
+<TinyCADSheets>
+	<TinyCAD>
+		<NAME>Sheet 1</NAME>
+		<DETAILS>
+			<Size width='1485' height='1050'/>
+			<GUIDES horiz='7' vert='5'/>
+			<TITLE></TITLE>
+			<AUTHOR></AUTHOR>
+			<REVISION>1.0</REVISION>
+			<DOCNUMBER></DOCNUMBER>
+			<ORGANISATION></ORGANISATION>
+			<SHEETS>1 of 1</SHEETS>
+			<SHOWS>1</SHOWS>
+			<DATE></DATE>
+			<GRID spacing='100.00000' snap='0'/>
+		</DETAILS>
+		<FONT id='3'>
+			<HEIGHT>-19</HEIGHT>
+			<WIDTH>8</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='4'>
+			<HEIGHT>-19</HEIGHT>
+			<WIDTH>8</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<STYLE id='2'>
+			<STYLE>0</STYLE>
+			<COLOR>000000</COLOR>
+			<THICKNESS>1</THICKNESS>
+		</STYLE>
+		<FILL id='0'>
+			<INDEX>-1</INDEX>
+			<COLOR>000000</COLOR>
+		</FILL>
+		<FILL id='2'>
+			<INDEX>0</INDEX>
+			<COLOR>C0C0C0</COLOR>
+		</FILL>
+		<FILL id='3'>
+			<INDEX>0</INDEX>
+			<COLOR>C0C0C0</COLOR>
+		</FILL>
+		<FILL id='4'>
+			<INDEX>0</INDEX>
+			<COLOR>C0C0C0</COLOR>
+		</FILL>
+		<FILL id='5'>
+			<INDEX>0</INDEX>
+			<COLOR>C0C0C0</COLOR>
+		</FILL>
+		<FILL id='6'>
+			<INDEX>0</INDEX>
+			<COLOR>C0C0C0</COLOR>
+		</FILL>
+		<FILL id='7'>
+			<INDEX>0</INDEX>
+			<COLOR>C0C0C0</COLOR>
+		</FILL>
+		<FILL id='9'>
+			<INDEX>0</INDEX>
+			<COLOR>C0C0C0</COLOR>
+		</FILL>
+		<FILL id='10'>
+			<INDEX>0</INDEX>
+			<COLOR>C0C0C0</COLOR>
+		</FILL>
+		<FILL id='11'>
+			<INDEX>0</INDEX>
+			<COLOR>C0C0C0</COLOR>
+		</FILL>
+		<FILL id='12'>
+			<INDEX>0</INDEX>
+			<COLOR>C0C0C0</COLOR>
+		</FILL>
+		<FILL id='13'>
+			<INDEX>0</INDEX>
+			<COLOR>C0C0C0</COLOR>
+		</FILL>
+		<FILL id='14'>
+			<INDEX>0</INDEX>
+			<COLOR>C0C0C0</COLOR>
+		</FILL>
+		<FILL id='15'>
+			<INDEX>0</INDEX>
+			<COLOR>C0C0C0</COLOR>
+		</FILL>
+		<FILL id='16'>
+			<INDEX>0</INDEX>
+			<COLOR>C0C0C0</COLOR>
+		</FILL>
+		<FILL id='17'>
+			<INDEX>0</INDEX>
+			<COLOR>C0C0C0</COLOR>
+		</FILL>
+		<FILL id='18'>
+			<INDEX>0</INDEX>
+			<COLOR>C0C0C0</COLOR>
+		</FILL>
+		<OPTIONS>
+			<GRID>1</GRID>
+			<UNITS>0</UNITS>
+			<COLOR_WIRE>FF0000</COLOR_WIRE>
+			<COLOR_BUS>0000FF</COLOR_BUS>
+			<COLOR_JUNCTION>000000</COLOR_JUNCTION>
+			<COLOR_NOCONNECT>000000</COLOR_NOCONNECT>
+			<COLOR_LABEL>208000</COLOR_LABEL>
+			<COLOR_POWER>000000</COLOR_POWER>
+			<COLOR_PIN>4040C0</COLOR_PIN>
+			<COLOR_HIDDEN_PIN>208020</COLOR_HIDDEN_PIN>
+			<COLOR_BACKGROUND>FFFFFF</COLOR_BACKGROUND>
+		</OPTIONS>
+		<RECTANGLE a='57.40000,6.80000' b='199.80000,13.40000' style='2' fill='0'/>
+		<RECTANGLE a='57.40000,19.20000' b='199.80000,25.80000' style='2' fill='0'/>
+		<RECTANGLE a='57.20000,31.20000' b='199.60000,37.80000' style='2' fill='0'/>
+		<RECTANGLE a='57.60000,42.60000' b='200.00000,49.20000' style='2' fill='0'/>
+		<RECTANGLE a='57.20000,55.20000' b='199.60000,61.80000' style='2' fill='0'/>
+		<RECTANGLE a='57.20000,67.60000' b='199.60000,74.20000' style='2' fill='0'/>
+		<RECTANGLE a='57.40000,79.60000' b='199.80000,86.20000' style='2' fill='0'/>
+		<RECTANGLE a='57.60000,91.40000' b='200.00000,98.00000' style='2' fill='0'/>
+		<RECTANGLE a='57.40000,103.00000' b='199.80000,109.60000' style='2' fill='0'/>
+		<RECTANGLE a='57.40000,115.40000' b='199.80000,122.00000' style='2' fill='0'/>
+		<RECTANGLE a='57.20000,127.40000' b='199.60000,134.00000' style='2' fill='0'/>
+		<RECTANGLE a='57.60000,139.20000' b='200.00000,145.80000' style='2' fill='0'/>
+		<RECTANGLE a='57.44000,151.32000' b='199.84000,157.92000' style='2' fill='0'/>
+		<RECTANGLE a='57.40000,163.40000' b='199.80000,170.00000' style='2' fill='0'/>
+		<RECTANGLE a='57.56769,174.30000' b='199.96769,180.90000' style='2' fill='0'/>
+		<RECTANGLE a='57.62769,185.58000' b='200.02769,192.18000' style='2' fill='0'/>
+		<RECTANGLE a='57.47692,197.24615' b='199.87692,203.84615' style='2' fill='0'/>
+		<RECTANGLE a='57.43195,6.87692' b='73.76331,13.38580' style='2' fill='3'/>
+		<RECTANGLE a='59.68047,19.30296' b='75.53846,25.69349' style='2' fill='2'/>
+		<TEXT pos='98.20000,12.40000' direction='3' font='3' color='000000'>blå</TEXT>
+		<TEXT pos='51.40000,12.20000' direction='3' font='3' color='000000'>gul</TEXT>
+		<TEXT pos='53.80000,24.20000' direction='3' font='3' color='000000'>gul</TEXT>
+		<TEXT pos='98.00000,24.20000' direction='3' font='3' color='000000'>blå-grøn</TEXT>
+		<TEXT pos='54.80000,17.20000' direction='3' font='3' color='000000'>0,0</TEXT>
+		<TEXT pos='71.20000,17.60000' direction='3' font='3' color='000000'>1,6</TEXT>
+		<TEXT pos='20.00000,12.80000' direction='3' font='3' color='000000'>Methylviolet</TEXT>
+		<TEXT pos='20.20000,24.00000' direction='3' font='3' color='000000'>Malachitgrønt</TEXT>
+		<TEXT pos='19.80000,36.00000' direction='3' font='3' color='000000'>Thymolblå (syreform)</TEXT>
+		<TEXT pos='20.20000,48.00000' direction='3' font='3' color='000000'>Erythrosin</TEXT>
+		<RECTANGLE a='70.06864,31.09112' b='85.40000,37.60000' style='2' fill='4'/>
+		<RECTANGLE a='79.66864,42.49112' b='94.20000,49.00000' style='2' fill='5'/>
+		<RECTANGLE a='90.26864,55.49112' b='101.00000,62.00000' style='2' fill='6'/>
+		<RECTANGLE a='88.46864,67.49112' b='103.40000,74.00000' style='2' fill='7'/>
+		<RECTANGLE a='88.06864,79.49112' b='107.40000,86.00000' style='2' fill='2'/>
+		<RECTANGLE a='95.86864,91.49112' b='110.80000,98.00000' style='2' fill='9'/>
+		<RECTANGLE a='106.06864,102.89112' b='117.40000,109.40000' style='2' fill='10'/>
+		<RECTANGLE a='108.06864,115.49112' b='137.40000,122.00000' style='2' fill='11'/>
+		<RECTANGLE a='110.26864,127.29112' b='125.20000,133.80000' style='2' fill='12'/>
+		<RECTANGLE a='118.06864,139.09112' b='133.40000,145.60000' style='2' fill='13'/>
+		<RECTANGLE a='123.86864,151.49112' b='137.40000,158.00000' style='2' fill='14'/>
+		<RECTANGLE a='137.66864,163.49112' b='153.20000,170.00000' style='2' fill='15'/>
+		<RECTANGLE a='140.26864,174.49112' b='157.20000,181.00000' style='2' fill='16'/>
+		<RECTANGLE a='152.26864,185.49112' b='163.60000,192.00000' style='2' fill='17'/>
+		<RECTANGLE a='158.86864,197.29112' b='178.20000,203.80000' style='2' fill='18'/>
+		<TEXT pos='20.00000,59.60000' direction='3' font='4' color='000000'>Methylorange</TEXT>
+		<TEXT pos='19.80000,72.80000' direction='3' font='4' color='000000'>Bromfenolblå</TEXT>
+		<TEXT pos='19.80000,85.00000' direction='3' font='4' color='000000'>Kongorød</TEXT>
+		<TEXT pos='19.60000,97.00000' direction='3' font='4' color='000000'>Bromcresolgrøn</TEXT>
+		<TEXT pos='19.80000,108.20000' direction='3' font='4' color='000000'>Methylrødt</TEXT>
+		<TEXT pos='19.60000,121.40000' direction='3' font='4' color='000000'>Lakmus</TEXT>
+		<TEXT pos='19.60000,133.00000' direction='3' font='4' color='000000'>Bromcresolviolet</TEXT>
+		<TEXT pos='19.60000,144.40000' direction='3' font='4' color='000000'>Bromthymolblåt</TEXT>
+		<TEXT pos='19.60000,157.20000' direction='3' font='4' color='000000'>Phenolrødt</TEXT>
+		<TEXT pos='19.80000,168.80000' direction='3' font='4' color='000000'>Thymolblåt (baseform)</TEXT>
+		<TEXT pos='19.80000,179.60000' direction='3' font='4' color='000000'>Phenolphtalein</TEXT>
+		<TEXT pos='19.80000,190.60000' direction='3' font='4' color='000000'>Thymolphtalein</TEXT>
+		<TEXT pos='19.80000,202.60000' direction='3' font='4' color='000000'>Alizaringult R</TEXT>
+		<TEXT pos='57.00000,29.60000' direction='3' font='4' color='000000'>0,2</TEXT>
+		<TEXT pos='72.60000,29.60000' direction='3' font='4' color='000000'>1,8</TEXT>
+		<TEXT pos='67.00000,41.80000' direction='3' font='4' color='000000'>1,2</TEXT>
+		<TEXT pos='82.20000,41.60000' direction='3' font='4' color='000000'>2,8</TEXT>
+		<TEXT pos='77.40000,53.60000' direction='3' font='4' color='000000'>2,2</TEXT>
+		<TEXT pos='91.40000,53.20000' direction='3' font='4' color='000000'>3,6</TEXT>
+		<TEXT pos='88.00000,66.20000' direction='3' font='4' color='000000'>3,2</TEXT>
+		<TEXT pos='97.80000,66.00000' direction='3' font='4' color='000000'>4,4</TEXT>
+		<TEXT pos='86.40000,78.20000' direction='3' font='4' color='000000'>3,0</TEXT>
+		<TEXT pos='100.60000,78.40000' direction='3' font='4' color='000000'>4,6</TEXT>
+		<TEXT pos='85.60000,90.00000' direction='3' font='4' color='000000'>3,0</TEXT>
+		<TEXT pos='105.00000,90.40000' direction='3' font='4' color='000000'>5,0</TEXT>
+		<TEXT pos='93.40000,102.00000' direction='3' font='4' color='000000'>3,8</TEXT>
+		<TEXT pos='108.60000,102.00000' direction='3' font='4' color='000000'>5,4</TEXT>
+		<TEXT pos='103.80000,113.60000' direction='3' font='4' color='000000'>4,8</TEXT>
+		<TEXT pos='114.60000,113.80000' direction='3' font='4' color='000000'>6,0</TEXT>
+		<TEXT pos='105.20000,126.20000' direction='3' font='4' color='000000'>5,0</TEXT>
+		<TEXT pos='134.60000,126.00000' direction='3' font='4' color='000000'>8,0</TEXT>
+		<TEXT pos='107.60000,138.40000' direction='3' font='4' color='000000'>5,2</TEXT>
+		<TEXT pos='123.00000,138.20000' direction='3' font='4' color='000000'>6,8</TEXT>
+		<TEXT pos='115.20000,150.00000' direction='3' font='4' color='000000'>6,0</TEXT>
+		<TEXT pos='131.20000,150.00000' direction='3' font='4' color='000000'>7,6</TEXT>
+		<TEXT pos='121.40000,162.40000' direction='3' font='4' color='000000'>6,6</TEXT>
+		<TEXT pos='135.00000,162.00000' direction='3' font='4' color='000000'>8,0</TEXT>
+		<TEXT pos='134.80000,174.00000' direction='3' font='4' color='000000'>8,0</TEXT>
+		<TEXT pos='150.20000,173.80000' direction='3' font='4' color='000000'>9,6</TEXT>
+		<TEXT pos='137.80000,185.20000' direction='3' font='4' color='000000'>8,2</TEXT>
+		<TEXT pos='153.40000,185.20000' direction='3' font='4' color='000000'>10,0</TEXT>
+		<TEXT pos='149.80000,196.00000' direction='3' font='4' color='000000'>9,4</TEXT>
+		<TEXT pos='159.40000,196.20000' direction='3' font='4' color='000000'>10,6</TEXT>
+		<TEXT pos='154.40000,208.20000' direction='3' font='4' color='000000'>10,1</TEXT>
+		<TEXT pos='173.60000,208.20000' direction='3' font='4' color='000000'>12,1</TEXT>
+		<TEXT pos='59.80000,36.00000' direction='3' font='4' color='000000'>rød</TEXT>
+		<TEXT pos='104.00000,36.00000' direction='3' font='4' color='000000'>gul</TEXT>
+		<TEXT pos='64.60000,47.80000' direction='3' font='4' color='000000'>orange</TEXT>
+		<TEXT pos='109.60000,47.60000' direction='3' font='4' color='000000'>rød</TEXT>
+		<TEXT pos='73.00000,60.60000' direction='3' font='4' color='000000'>rød</TEXT>
+		<TEXT pos='115.60000,60.40000' direction='3' font='4' color='000000'>gul</TEXT>
+		<TEXT pos='73.40000,72.60000' direction='3' font='4' color='000000'>gul</TEXT>
+		<TEXT pos='117.00000,72.40000' direction='3' font='4' color='000000'>blå</TEXT>
+		<TEXT pos='74.00000,84.60000' direction='3' font='4' color='000000'>blå</TEXT>
+		<TEXT pos='118.20000,84.40000' direction='3' font='4' color='000000'>rød</TEXT>
+		<TEXT pos='78.20000,96.20000' direction='3' font='4' color='000000'>gul</TEXT>
+		<TEXT pos='121.80000,96.20000' direction='3' font='4' color='000000'>blå</TEXT>
+		<TEXT pos='80.00000,108.00000' direction='3' font='4' color='000000'>rød</TEXT>
+		<TEXT pos='127.80000,107.80000' direction='3' font='4' color='000000'>gul</TEXT>
+		<TEXT pos='81.20000,120.20000' direction='3' font='4' color='000000'>rød</TEXT>
+		<TEXT pos='147.60000,120.80000' direction='3' font='4' color='000000'>blå</TEXT>
+		<TEXT pos='89.60000,132.40000' direction='3' font='4' color='000000'>gul</TEXT>
+		<TEXT pos='146.40000,132.80000' direction='3' font='4' color='000000'>violet</TEXT>
+		<TEXT pos='90.80000,144.40000' direction='3' font='4' color='000000'>gul</TEXT>
+		<TEXT pos='148.40000,145.00000' direction='3' font='4' color='000000'>blå</TEXT>
+		<TEXT pos='94.00000,156.40000' direction='3' font='4' color='000000'>gul</TEXT>
+		<TEXT pos='157.80000,156.60000' direction='3' font='4' color='000000'>rød</TEXT>
+		<TEXT pos='100.60000,168.40000' direction='3' font='4' color='000000'>gul</TEXT>
+		<TEXT pos='165.20000,168.20000' direction='3' font='4' color='000000'>blå</TEXT>
+		<TEXT pos='105.20000,179.40000' direction='3' font='4' color='000000'>farveløs</TEXT>
+		<TEXT pos='170.00000,179.20000' direction='3' font='4' color='000000'>rød</TEXT>
+		<TEXT pos='109.60000,191.40000' direction='3' font='4' color='000000'>farveløs</TEXT>
+		<TEXT pos='174.60000,191.20000' direction='3' font='4' color='000000'>blå</TEXT>
+		<TEXT pos='118.00000,202.20000' direction='3' font='4' color='000000'>lysegul</TEXT>
+		<TEXT pos='185.00000,203.00000' direction='3' font='4' color='000000'>lilla</TEXT>
+	</TinyCAD>
+</TinyCADSheets>
