@@ -10,3 +10,11 @@ body {
     border-radius: 8px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
+
+.streg-tabel,
+.streg-tabel th,
+.streg-tabel td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 8px;
+}
