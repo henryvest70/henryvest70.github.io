@@ -3,7 +3,8 @@
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Kemi C for HF - Kap. 1</title>
+        <title>Kemi C for HF - Kap. 7</title>
+        <link rel="icon" type="image/x-icon" href="figurer/atom.png" />
         <link rel="stylesheet" href="style.css" />
     </head>
     <body>
@@ -19,14 +20,348 @@
             </script>
         </header>
         <div class="container">
-            <h1>Velkommen til min side</h1>
-            <p>Dette er en simpel skabelon, der er let at bygge videre på.</p>
+            <h1>
+                Kapitel 7: Mængdeberegninger 1: Masse, mol, molarmasse,
+                stofmængde og stofmængdekoncentration
+            </h1>
 
+            <h2>1. Formål</h2>
+
+            <p>Formålet med dette kapitel er:</p>
             <ul>
-                <li>Punkt 1</li>
-                <li>Punkt 2</li>
-                <li>Punkt 3</li>
+                <li>
+                    at lære om begreberne mol, masse, molarmasse og stofmængde.
+                </li>
+                <li>at lære om sammenhængen mellem ovennævnte størrelser.</li>
+                <li>
+                    at lære om begreberne volumen og stofmængdekoncentration.
+                </li>
+                <li>at lære om fremstilling af opløsninger.</li>
             </ul>
+
+            <h2>2. Mol</h2>
+
+            <p>
+                Atomer og molekyler er uhyre små. Derfor arbejder vi i praksis
+                altid med meget store antal atomer eller molekyler. Hvis vi
+                derfor skal angive et antal atomer eller molekyler, bruger vi
+                enheden et mol. Et mol er simpelthen bare et (meget) stort tal.
+                Faktisk så stort som 602.000.000.000.000.000.000.000. Dette
+                store tal skrives lettere som 6,02·10<sup>23</sup>.
+            </p>
+
+            <p>
+                Man kan sammenligne et mol med begrebet et dusin der betyder 12,
+                eller en snes der betyder 20.
+            </p>
+
+            <p>
+                I stedet for at sige vi har 6,02·1023 atomer, kan vi altså sige
+                vi har et mol atomer. Har vi i stedet 12,04·10<sup>23</sup>
+                atomer, kan vi sige vi har 2 mol atomer.
+            </p>
+
+            <h2>3. Masse</h2>
+
+            <p>
+                En portion stof - fx en teskefuld salt - vejer et eller andet.
+                Dette begreb kaldes masse. I daglig tale kalder vi det vægt, men
+                det korrekte ord i kemi er masse. Masse måles i gram (g). Man
+                betegner masse med bogstavet m. Har vi en portion stof der vejer
+                5 g, kan vi skrive: m = 5 g.
+            </p>
+
+            <h2>4. Molarmasse</h2>
+
+            <p>
+                Forskellig atomer vejer forskelligt. Da atomer er meget små, er
+                det upraktisk at angive massen af et enkelt atom. I stedet
+                bruger man massen af et helt mol atomer (eller molekyler). Lad
+                os først se på grundstofferne. I det periodiske system kan vi
+                finde ud af hvad 1 mol atomer af et givet grundstof vejer. Hvis
+                vi fx ser på stoffet jern (med atomsymbol Fe) finder vi tallet
+                55,85. Dette tal betyder at 1 mol jernatomer vejer 55,85 g. Vi
+                kalder dette tal for stoffets molarmasse. Da tallet er massen af
+                1 mol stof, er enheden for molarmasse gram per mol (g/mol).
+                Molarmasse betegnes med bogstavet M. For jern kan vi skrive M =
+                55,85 g/mol. Man kan i parentes angive hvilket stof der er tale
+                om: M(Fe) = 55,85 g/mol. På samme måde kan man finde M(H) = 1,01
+                g/mol og M(C) = 12,01 g/mol.
+            </p>
+
+            <p>
+                Hvad nu hvis vi skal finde molarmassen for et molekyle? Lad os
+                bruge methan, CH<sub>4</sub>, som eksempel. Vi skal altså finde
+                ud af hvad 1 mol methanmolekyler vejer. Methanmolekylet er
+                opbygget af 1 C-atom og 4 H-atomer. I 1 mol
+                CH<sub>4</sub>-molekyler må der derfor være 1 mol C-atomer og 4
+                mol H-atomer. Massen af 1 mol CH<sub>4</sub> må derfor være det
+                samme som massen af 1 mol C og 4 mol H. Massen af 1 mol C er jo
+                netop molarmassen for C. Vi kan derfor beregne molarmassen for
+                CH<sub>4</sub> som M(CH<sub>4</sub>) = M(C) + 4·M(H) = 12,01
+                g/mol + 4·1,01 g/mol = 16,05 g/mol.
+            </p>
+
+            <h2>5. Stofmængde</h2>
+
+            <p>
+                Stofmængen angiver hvor mange mol af et stof vi har, og betegnes
+                med bogstavet n. Hvis vi har 2 mol af et stof, skriver vi n = 2
+                mol. Stofmængde er altså et mål for hvor mange atomer/molekyler
+                vi har.
+            </p>
+
+            <h2>6. Sammenhæng mellem masse og stofmængde</h2>
+
+            <p>Vi har nu tre begreber:</p>
+            <ul>
+                <li>Masse (m): hvad stoffet vejer.</li>
+                <li>Molarmasse (M): hvad 1 mol af stoffet vejer.</li>
+                <li>Stofmængde (n): antallet af mol stof.</li>
+            </ul>
+
+            <p>
+                Disse tre størrelser hænger sammen. Hvis vi ved hvad 1 mol af et
+                stof vejer (M), og vi ved hvor mange mol stof vi har (n), kan vi
+                beregne hvad stoffet i alt vejer (m). Dette gøres simpelthen ved
+                at gange molarmasse med stofmængde. Med formler:
+            </p>
+            <p>m = n·M.</p>
+
+            <p>
+                Vi fandt før ud af, at molarmassen for methan (CH<sub>4</sub>)
+                er 16,05 g/mol. 2 mol methan må derfor veje det dobbelte, altså
+                32,10 g. Opskrevet med formler:
+            </p>
+            <p>m = n·M = 2 mol·16,05 g/mol = 32,10 g.</p>
+
+            <p>
+                Ofte er man i den situation, at det er molarmassen (M) og massen
+                (m) man kender og stofmængden (n) der skal beregnes. Det kan
+                også være molarmassen der skal beregnes ud fra det to andre. Det
+                kan gøres ved at omforme sammenhængen mellem de tre størrelser:
+            </p>
+            <p>
+                m = n·M ⇔
+                <math
+                    >n = <mfrac><mi>m</mi> <mi>M</mi></mfrac></math
+                >
+                ⇔
+                <math
+                    >M = <mfrac><mi>m</mi> <mi>n</mi></mfrac></math
+                >.
+            </p>
+
+            <p>
+                Eksempel: Vi kender M = 40 g/mol og m = 4,3 g og deraf beregne
+            </p>
+            <p>
+                <math
+                    >n = <mfrac><mi>m</mi> <mi>M</mi></mfrac
+                    >=<mfrac><mn>4,3 g</mn> <mn>40 g/mol</mn></mfrac> = 0,1075
+                    mol</math
+                >.
+            </p>
+
+            <table class="streg-tabel">
+                <tr>
+                    <th colspan="3">Oversigt</th>
+                </tr>
+                <tr>
+                    <th>Størrelse</th>
+                    <th>Forkortelse</th>
+                    <th>Enhed</th>
+                </tr>
+                <tr>
+                    <td>masse</td>
+                    <td>m</td>
+                    <td>g (gram)</td>
+                </tr>
+                <tr>
+                    <td>molarmasse</td>
+                    <td>M</td>
+                    <td>g/mol (gram pr. mol)</td>
+                </tr>
+                <tr>
+                    <td>stofmængde</td>
+                    <td>n</td>
+                    <td>mol</td>
+                </tr>
+                <tr>
+                    <th colspan="3">Formler</th>
+                </tr>
+                <tr>
+                    <td>m = n·M</td>
+                    <td>
+                        <math
+                            ><mn>n = </mn
+                            ><mfrac><mn>m</mn><mn>M</mn></mfrac></math
+                        >
+                    </td>
+                    <td>
+                        <math
+                            ><mn>M = </mn
+                            ><mfrac><mn>m</mn><mn>n</mn></mfrac></math
+                        >
+                    </td>
+                </tr>
+            </table>
+
+            <h2>7. Stofmængdekoncentration</h2>
+
+            <p>
+                I kemi arbejder vi ofte med stoffer der er opløst i vand (eller
+                andre opløsningsmidler). Vi har derfor brug for, et mål for hvor
+                koncentreret opløsningen er. Den mest almindelige måde at angive
+                dette på i kemi, er at angive hvor mange mol af stoffet der er
+                opløst per liter opløsning. Denne størrelse kalder vi
+                stofmængdekoncentration (eller lidt mindre præcist:
+                koncentration) og betegner med et c. Enheden for
+                stofmængdekoncentration er mol/L (mol per liter). Hvis vi fx har
+                2 liter (L) opløsning af salt i vand, hvor der i alt er 0,5 mol
+                salt, så svarer det til at der er 0,25 mol salt i hver liter
+                opløsning og vi kan skrive c = 0,25 mol/L.
+            </p>
+
+            <p>Generelt har vi:</p>
+            <ul>
+                <li>Stofmængde (n): antallet af mol stof, enhed: mol.</li>
+                <li>
+                    Volumen (V): hvor meget opløsningen fylder (rumfang), enhed:
+                    L.
+                </li>
+                <li>
+                    Stofmængdekoncentration (c): hvor mange mol stof der er per
+                    liter opløsning, enhed: mol/L.
+                </li>
+            </ul>
+
+            <p>Den generelle sammenhæng mellem de tre størrelser, er:</p>
+            <p>
+                <math
+                    ><mn>c =</mn><mfrac><mn>n</mn><mn>V </mn></mfrac>
+                    <mo>&DoubleLeftRightArrow;</mo> <mn>n = m·M</mn
+                    ><mo>&DoubleLeftRightArrow;</mo> <mi>V</mi><mo>=</mo
+                    ><mfrac><mi>n</mi><mi>c</mi></mfrac> </math
+                >.
+            </p>
+
+            <p>
+                Eksempel 1: Vi opløser 0,16 mol stof i vand, så opløsningen i
+                alt fylder 0,5 L, hvad er stofmængdekoncentrationen?
+            </p>
+
+            <p>
+                Vi beregner:
+                <math
+                    ><mn>c = </mn><mfrac><mi>n</mi><mi>V</mi></mfrac
+                    ><mo>=</mo><mfrac><mn>0,16 mol</mn><mn>0,5 L</mn></mfrac
+                    ><mo>=</mo><mn>0,32 mol/L</mn></math
+                >.
+            </p>
+
+            <p>
+                Eksempel 2: Vi skal bruge en stofmængde på 0,30 mol fra en
+                opløsning med en koncentration på 0,25 mol/L, hvor stort et
+                volumen skal vi bruge?
+            </p>
+
+            <p>
+                Vi beregner:
+                <math
+                    ><mi>V</mi><mo>=</mo><mfrac><mi>n</mi><mi>c</mi></mfrac
+                    ><mo>=</mo
+                    ><mfrac><mn>0,30 mol</mn><mn>0,25 mol/L</mn></mfrac
+                    ><mo>=</mo><mn>1,2 L</mn>
+                </math>
+                .
+            </p>
+
+            <h2>8. Fremstilling af opløsninger</h2>
+
+            <p>
+                Vi får til opgave at fremstille 0,5 L opløsning af
+                natriumhydroxid (NaOH) med en stofmængdekoncentration på 0,25
+                mol/L.
+            </p>
+
+            <p>
+                Vi kan dele opgaven op i to dele: for det første skal vi have
+                udført nogle beregninger for at finde ud af hvor meget stof
+                (NaOH) vi skal afveje, for det andet skal opløsningen laves i
+                praksis.
+            </p>
+
+            <p>
+                Beregningsdelen først. Vi har opgivet V = 0,5 L og c = 0,25
+                mol/L. Vi kan så beregne stofmængden:
+            </p>
+            <p>n = c·V = 0,25 mol/L·0,5 L = 0,125 mol.</p>
+
+            <p>
+                Nu ved vi hvor stor en stofmængde vi skal bruge, men vi skal
+                finde ud af hvad det vejer, da det er masse vi kan bestemme i
+                laboratoriet.
+            </p>
+
+            <p>
+                Stoffets molarmasse kan vi finde via det periodiske system, hvor
+                vi kan finde molarmasserne for Na, O og H. Vi beregner:
+            </p>
+
+            <p>
+                M(NaOH) = M(Na) + M(O) + M(H) =(22,99 + 16,00 + 1,01) g/mol =
+                40,00 g/mol.
+            </p>
+
+            <p>
+                Nu ved vi hvad 1 mol NaOH vejer, men vi skulle imidlertid kun
+                bruge 0,125 mol, så vi beregner massen:
+            </p>
+            <p>m = n·M = 0,125 mol·40,00 g/mol = 5,00 g.</p>
+            <p>
+                Vi har nu udført de nødvendige beregninger og kan gå over til
+                det praktiske.
+            </p>
+
+            <p>De 5,00 g NaOH afvejes på en vægt.</p>
+
+            <p>
+                En målekolbe med et volumen på 0,5 L fyldes ca. en tredjedel med
+                demineraliseret vand og stoffet (NaOH) overføres til kolben vha.
+                en tragt.
+            </p>
+
+            <p>
+                Der sættes prop på kolben og den rystes til al stof er opløst.
+            </p>
+
+            <p>
+                Derefter fyldes op med vand til målestregen. Der sættes igen
+                prop på og der rystes igen.
+            </p>
+
+            <p>
+                Bemærk at det er hele opløsningen der skal fylde 0,5 L, dvs. der
+                bliver i alt brugt lidt mindre end 0,5 L vand (da NaOH også
+                fylder lidt).
+            </p>
+
+            <figure>
+                <img
+                    src="figurer/fig07/målekolber.jpg"
+                    alt="Målekolber."
+                    width="300"
+                />
+                <figcaption>Figur 7.1: Målekolber.</figcaption>
+            </figure>
         </div>
+
+        <footer>
+            <div class="button-container">
+                <a href="kap06.html" class="next-btn">&larr;Forrige </a>
+                <a href="kap08.html" class="next-btn">Næste &rarr;</a>
+            </div>
+        </footer>
     </body>
 </html>

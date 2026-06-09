@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Kemi C for HF - Kap. 1</title>
+        <title>Kemi C for HF - App. B</title>
         <link rel="icon" type="image/x-icon" href="figurer/atom.png" />
         <link rel="stylesheet" href="style.css" />
     </head>
@@ -20,14 +20,97 @@
             </script>
         </header>
         <div class="container">
-            <h1>Velkommen til min side</h1>
-            <p>Dette er en simpel skabelon, der er let at bygge videre på.</p>
+            <h1>Appendix B: Betydende cifre</h1>
 
+            <p>
+                Når vi angiver et tal i en naturvidenskabelig tekst (fx en
+                kemijournal), har antallet af cifre betydning.
+            </p>
+
+            <p>
+                Hvis vi angiver en masse til at være 10 g, betyder der et sted
+                mellem 9,5 g og 10,499 ... g.
+            </p>
+
+            <p>
+                Hvis vi angiver en masse til at være 10,0 g, betyder det et sted
+                mellem 9,95 g og 10,0499 ... g.
+            </p>
+
+            <p>Vi taler derfor om antal betydende cifre.</p>
+
+            <p>Regler for betydende cifre:</p>
             <ul>
-                <li>Punkt 1</li>
-                <li>Punkt 2</li>
-                <li>Punkt 3</li>
+                <li>
+                    Det første betydende ciffer er det første ciffer der ikke er
+                    0.
+                </li>
+                <li>
+                    Det sidste betydende ciffer er det sidste ciffer i tallet.
+                </li>
             </ul>
+            <p>
+                Nogle eksempler, hvor første betydende ciffer er markeret med
+                rødt, og sidste betydende ciffer er markeret med blåt:
+            </p>
+            <table class="streg-tabel">
+                <tr>
+                    <th>Tal</th>
+                    <th>Antal betydende cifre</th>
+                </tr>
+                <tr>
+                    <td>
+                        <span style="color: red">1</span
+                        ><span style="color: blue">2</span>
+                    </td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td>
+                        <span style="color: red">1</span>2<span
+                            style="color: blue"
+                            >3</span
+                        >
+                    </td>
+                    <td>3</td>
+                </tr>
+                <tr>
+                    <td>
+                        <span style="color: red">1</span>23<span
+                            style="color: blue"
+                            >4</span
+                        >
+                    </td>
+                    <td>4</td>
+                </tr>
+                <tr>
+                    <td>
+                        <span style="color: red">1</span>,<span
+                            style="color: blue"
+                            >0</span
+                        >
+                    </td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td>
+                        <span style="color: red">1</span>,0<span
+                            style="color: blue"
+                            >0</span
+                        >
+                    </td>
+                    <td>3</td>
+                </tr>
+                <tr>
+                    <td>
+                        0,00<span style="color: red">1</span>0<span
+                            style="color: blue"
+                            >6</span
+                        >
+                    </td>
+                    <td>3</td>
+                </tr>
+            </table>
         </div>
 
         <footer>
