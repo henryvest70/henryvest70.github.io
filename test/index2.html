@@ -20,6 +20,11 @@
                 display: flex;
                 flex-direction: column;
                 min-height: 100vh;
+                margin-bottom: 20px;
+                p {
+                    margin-bottom: 20px; /* Ændrer afstanden under afsnittet */
+                    margin-top: 20px; /* Nulstiller afstanden over afsnittet (valgfrit) */
+                }
             }
 
             /* Header */
@@ -48,6 +53,7 @@
                 padding: 20px;
                 border-radius: 8px;
                 box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+                margin-bottom: 20px;
             }
 
             /* Menu / Sidebar (Højre side) */
@@ -129,14 +135,15 @@
                 </p>
             </main>
 
-            <script>
-                fetch("menu2.html")
-                    .then((response) => response.text())
-                    .then((data) => {
-                        document.getElementById("menu-placeholder").innerHTML =
-                            data;
-                    });
-            </script>
+            <aside>
+                <h3>Navigation</h3>
+                <ul>
+                    <li><a href="kap01.html">Kapitel 1</a></li>
+                    <li><a href="kap02.html">Kapitel 2</a></li>
+                    <li><a href="#link3">Ydelser</a></li>
+                    <li><a href="#link4">Kontakt</a></li>
+                </ul>
+            </aside>
         </div>
 
         <footer>
