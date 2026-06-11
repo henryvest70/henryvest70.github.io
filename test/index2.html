@@ -115,6 +115,14 @@
     </head>
     <body>
         <header>
+            <script>
+                fetch("menu2.html")
+                    .then((response) => response.text())
+                    .then((data) => {
+                        document.getElementById("menu-container").innerHTML =
+                            data;
+                    });
+            </script>
             <h1>Kemi C for HF</h1>
         </header>
 
@@ -136,13 +144,8 @@
             </main>
 
             <aside>
-                <h3>Navigation</h3>
-                <ul>
-                    <li><a href="kap01.html">Kapitel 1</a></li>
-                    <li><a href="kap02.html">Kapitel 2</a></li>
-                    <li><a href="#link3">Ydelser</a></li>
-                    <li><a href="#link4">Kontakt</a></li>
-                </ul>
+                <!-- her skal menuen være -->
+                 <div id="menu-container"></div>
             </aside>
         </div>
 
