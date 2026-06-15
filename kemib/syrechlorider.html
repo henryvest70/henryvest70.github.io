@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="da">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Syrechlorider</title>
+        <link rel="icon" type="image/x-icon" href="../figurer/atom.png" />
+        <link rel="stylesheet" href="style.css" />
+    </head>
+    <body>
+        <header>
+            <script>
+                fetch("menu.html")
+                    .then((response) => response.text())
+                    .then((data) => {
+                        document.getElementById("menu-container").innerHTML =
+                            data;
+                    });
+            </script>
+            <h1>Kemi B: Syrechlorider</h1>
+        </header>
+
+        <div class="container">
+            <main>
+                <h2>Navngivning af syrechlorider</h2>
+                <p></p>
+
+                <p></p>
+            </main>
+
+            <aside>
+                <!-- her skal menuen være -->
+                <div id="menu-container"></div>
+            </aside>
+        </div>
+
+        <footer></footer>
+    </body>
+</html>
