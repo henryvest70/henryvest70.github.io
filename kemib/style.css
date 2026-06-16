@@ -1,3 +1,11 @@
+.streg-tabel,
+.streg-tabel th,
+.streg-tabel td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 8px;
+}
+
 /* Nulstilling af standard margin og boks-model */
 * {
     margin: 0;
