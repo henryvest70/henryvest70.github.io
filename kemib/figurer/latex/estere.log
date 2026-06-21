@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.24.0 (MiKTeX 25.12) (format=lualatex 2026.2.28)  21 JUN 2026 17:48
+This is LuaHBTeX, Version 1.24.0 (MiKTeX 25.12) (format=lualatex 2026.2.28)  21 JUN 2026 18:41
  restricted system commands enabled.
 **estere.tex
 (./estere.tex
@@ -542,9 +542,9 @@ cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 39.
+(Font)              <7> on input line 54.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 39.
+(Font)              <5> on input line 54.
  [1
 
 
@@ -557,21 +557,21 @@ L3 programming layer <2025-12-24>
 )
 
 Here is how much of LuaTeX's memory you used:
- 14200 strings out of 476081
+ 14249 strings out of 476081
  100000,794899 words of node,token memory allocated
- 5401 words of node memory still in use:
-   126 hlist, 1 vlist, 1 rule, 12 math, 228 glue, 3 kern, 18 glyph, 400 attribut
-e, 48 glue_spec, 400 attribute_list, 3 write, 1 save_pos, 162 pdf_literal, 6 pdf
+ 6574 words of node memory still in use:
+   155 hlist, 1 vlist, 1 rule, 16 math, 283 glue, 3 kern, 21 glyph, 491 attribut
+e, 48 glue_spec, 491 attribute_list, 3 write, 1 save_pos, 200 pdf_literal, 6 pdf
 _colorstack nodes
-   avail lists: 1:1,2:38,3:333,4:24,5:22,6:2,7:536,8:11,9:268,11:1
- 36251 multiletter control sequences out of 65536+600000
+   avail lists: 2:38,3:409,4:24,5:22,6:2,7:660,8:11,9:326,11:1
+ 36300 multiletter control sequences out of 65536+600000
  25 fonts using 1345055 bytes
  117i,7n,114p,422b,754s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/ghfhv/AppData/Local/Programs/MiKTeX2/fonts/type1/public/amsfonts/cm/cm
 r10.pfb><C:/Users/ghfhv/AppData/Local/Programs/MiKTeX2/fonts/type1/public/amsfon
 ts/cm/cmr7.pfb><C:/Users/ghfhv/AppData/Local/Programs/MiKTeX2/fonts/type1/public
 /amsfonts/cm/cmsy10.pfb>
-Output written on estere.pdf (1 page, 26672 bytes).
+Output written on estere.pdf (1 page, 26791 bytes).
 
 PDF statistics: 21 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 1048576)
