@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="da">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Estere</title>
+        <link rel="icon" type="image/x-icon" href="../figurer/atom.png" />
+        <link rel="stylesheet" href="style.css" />
+    </head>
+    <body>
+        <header>
+            <script>
+                fetch("menu.html")
+                    .then((response) => response.text())
+                    .then((data) => {
+                        document.getElementById("menu-container").innerHTML =
+                            data;
+                    });
+            </script>
+            <h1>Kemi B: Navngivning af ethere</h1>
+        </header>
+
+        <div class="container">
+            <main>
+                <h2>Struktur</h2>
+
+                <p>En ether har følgende struktur:</p>
+                <img src="figurer/ether-struktur.svg" width="200" />
+
+                <p>
+                    De to radikaler (R<sub>1</sub> og R<sub>2</sub>) kan være
+                    ens eller forskellige.
+                </p>
+
+                <h2>Navngivning</h2>
+                <p>
+                    Ethere kan navngives efter to forskellige måder. Den første
+                    metode går ud på at finde den længste carbonkæde, i den
+                    anden metode ser man på hvilke substituenter (R<sub>1</sub>
+                    og R<sub>2</sub>) der er bundet til oxygenatomet.
+                </p>
+            </main>
+            <aside>
+                <!-- her skal menuen være -->
+                <div id="menu-container"></div>
+            </aside>
+        </div>
+        <footer></footer>
+    </body>
+</html>
