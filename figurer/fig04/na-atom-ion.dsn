@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--This file was written by TinyCAD 3.00.04 develop
+If you wish to view this file go to https://www.tinycad.net to
+download the executable.-->
+<TinyCADSheets>
+	<TinyCAD>
+		<NAME>Sheet 1</NAME>
+		<DETAILS>
+			<Size width='1485' height='1050'/>
+			<GUIDES horiz='7' vert='5'/>
+			<TITLE></TITLE>
+			<AUTHOR></AUTHOR>
+			<REVISION>1.0</REVISION>
+			<DOCNUMBER></DOCNUMBER>
+			<ORGANISATION></ORGANISATION>
+			<SHEETS>1 of 1</SHEETS>
+			<SHOWS>1</SHOWS>
+			<DATE></DATE>
+			<GRID spacing='100.00000' snap='0'/>
+		</DETAILS>
+		<FONT id='0'>
+			<HEIGHT>-13</HEIGHT>
+			<WIDTH>6</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='3'>
+			<HEIGHT>-13</HEIGHT>
+			<WIDTH>6</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='4'>
+			<HEIGHT>-13</HEIGHT>
+			<WIDTH>6</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial Rounded MT Bold</FACENAME>
+		</FONT>
+		<FONT id='5'>
+			<HEIGHT>-13</HEIGHT>
+			<WIDTH>6</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial Rounded MT Bold</FACENAME>
+		</FONT>
+		<FONT id='6'>
+			<HEIGHT>-13</HEIGHT>
+			<WIDTH>6</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial Rounded MT Bold</FACENAME>
+		</FONT>
+		<STYLE id='3'>
+			<STYLE>0</STYLE>
+			<COLOR>000000</COLOR>
+			<THICKNESS>2</THICKNESS>
+		</STYLE>
+		<STYLE id='4'>
+			<STYLE>0</STYLE>
+			<COLOR>000000</COLOR>
+			<THICKNESS>2</THICKNESS>
+		</STYLE>
+		<STYLE id='6'>
+			<STYLE>0</STYLE>
+			<COLOR>000000</COLOR>
+			<THICKNESS>2</THICKNESS>
+		</STYLE>
+		<STYLE id='8'>
+			<STYLE>0</STYLE>
+			<COLOR>0000FF</COLOR>
+			<THICKNESS>2</THICKNESS>
+		</STYLE>
+		<STYLE id='9'>
+			<STYLE>0</STYLE>
+			<COLOR>0000FF</COLOR>
+			<THICKNESS>2</THICKNESS>
+		</STYLE>
+		<FILL id='0'>
+			<INDEX>-1</INDEX>
+			<COLOR>000000</COLOR>
+		</FILL>
+		<FILL id='7'>
+			<INDEX>0</INDEX>
+			<COLOR>FF0000</COLOR>
+		</FILL>
+		<FILL id='8'>
+			<INDEX>0</INDEX>
+			<COLOR>FF0000</COLOR>
+		</FILL>
+		<FILL id='9'>
+			<INDEX>0</INDEX>
+			<COLOR>FF0000</COLOR>
+		</FILL>
+		<FILL id='14'>
+			<INDEX>0</INDEX>
+			<COLOR>408000</COLOR>
+		</FILL>
+		<OPTIONS>
+			<GRID>1</GRID>
+			<UNITS>0</UNITS>
+			<COLOR_WIRE>FF0000</COLOR_WIRE>
+			<COLOR_BUS>0000FF</COLOR_BUS>
+			<COLOR_JUNCTION>000000</COLOR_JUNCTION>
+			<COLOR_NOCONNECT>000000</COLOR_NOCONNECT>
+			<COLOR_LABEL>208000</COLOR_LABEL>
+			<COLOR_POWER>000000</COLOR_POWER>
+			<COLOR_PIN>4040C0</COLOR_PIN>
+			<COLOR_HIDDEN_PIN>208020</COLOR_HIDDEN_PIN>
+			<COLOR_BACKGROUND>FFFFFF</COLOR_BACKGROUND>
+			<COLOR_NOTETEXT_FILL>AFFFFF</COLOR_NOTETEXT_FILL>
+			<COLOR_NOTETEXT_LINE>FF0000</COLOR_NOTETEXT_LINE>
+			<COLOR_NOTETEXT_TEXT>FF0000</COLOR_NOTETEXT_TEXT>
+		</OPTIONS>
+		<ELLIPSE a='17.20000,18.40000' b='77.20000,80.20000' style='6' fill='0'/>
+		<ELLIPSE a='27.80000,30.40000' b='64.60000,66.60000' style='6' fill='0'/>
+		<TEXT pos='46.00000,31.80000' direction='3' font='3' color='000000'>-</TEXT>
+		<ELLIPSE a='44.60000,29.40000' b='46.60000,32.00000' style='6' fill='7'/>
+		<ELLIPSE a='45.60000,65.00000' b='47.60000,67.60000' style='6' fill='7'/>
+		<ELLIPSE a='42.60000,78.60000' b='44.60000,81.20000' style='3' fill='9'/>
+		<ELLIPSE a='16.60000,50.80000' b='18.60000,53.40000' style='3' fill='9'/>
+		<ELLIPSE a='17.80000,38.60000' b='19.80000,41.20000' style='6' fill='7'/>
+		<ELLIPSE a='44.40000,17.60000' b='46.40000,20.20000' style='6' fill='8'/>
+		<ELLIPSE a='53.40000,18.20000' b='55.40000,20.80000' style='6' fill='8'/>
+		<ELLIPSE a='75.60000,41.40000' b='77.60000,44.00000' style='6' fill='7'/>
+		<ELLIPSE a='76.00000,50.00000' b='78.00000,52.60000' style='6' fill='8'/>
+		<ELLIPSE a='49.60000,78.60000' b='51.60000,81.20000' style='3' fill='9'/>
+		<ELLIPSE a='5.00000,91.60000' b='90.20000,8.20000' style='3' fill='0'/>
+		<ELLIPSE a='45.40000,90.00000' b='47.40000,92.60000' style='4' fill='9'/>
+		<ELLIPSE a='42.00000,44.00000' b='50.00000,51.80000' style='8' fill='14'/>
+		<TEXT pos='43.40000,49.40000' direction='3' font='6' color='FFFFFF'>11+</TEXT>
+		<TEXT pos='-21.40000,7.00000' direction='3' font='5' color='FFFFFF'>13</TEXT>
+		<ELLIPSE a='115.80000,15.80000' b='175.80000,77.60000' style='6' fill='0'/>
+		<ELLIPSE a='126.40000,27.80000' b='163.20000,64.00000' style='6' fill='0'/>
+		<TEXT pos='144.60000,29.20000' direction='3' font='0' color='000000'>-</TEXT>
+		<ELLIPSE a='143.20000,26.80000' b='145.20000,29.40000' style='6' fill='7'/>
+		<ELLIPSE a='144.20000,62.40000' b='146.20000,65.00000' style='6' fill='7'/>
+		<ELLIPSE a='141.20000,76.00000' b='143.20000,78.60000' style='6' fill='9'/>
+		<ELLIPSE a='115.20000,48.20000' b='117.20000,50.80000' style='6' fill='9'/>
+		<ELLIPSE a='116.40000,36.00000' b='118.40000,38.60000' style='6' fill='7'/>
+		<ELLIPSE a='143.00000,15.00000' b='145.00000,17.60000' style='6' fill='8'/>
+		<ELLIPSE a='152.00000,15.60000' b='154.00000,18.20000' style='6' fill='8'/>
+		<ELLIPSE a='174.20000,38.80000' b='176.20000,41.40000' style='6' fill='7'/>
+		<ELLIPSE a='174.60000,47.40000' b='176.60000,50.00000' style='6' fill='8'/>
+		<ELLIPSE a='148.20000,76.00000' b='150.20000,78.60000' style='6' fill='9'/>
+		<ELLIPSE a='140.60000,41.40000' b='148.60000,49.20000' style='9' fill='14'/>
+		<TEXT pos='142.00000,46.80000' direction='3' font='5' color='FFFFFF'>11+</TEXT>
+		<TEXT pos='77.20000,4.40000' direction='3' font='4' color='FFFFFF'>13</TEXT>
+	</TinyCAD>
+</TinyCADSheets>
