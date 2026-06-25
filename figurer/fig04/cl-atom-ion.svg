@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="-6 0 989.257 482.74" width="297mm" height="210mm" version="1.1" id="svg64" xmlns="http://www.w3.org/2000/svg">
+  <defs id="defs2">
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath1">
+      <rect style="fill:#0000ff;fill-rule:evenodd;stroke-width:1.32292" id="rect2" width="1032.8572" height="468.57141" x="17.142857" y="15.714286"/>
+    </clipPath>
+  </defs>
+  <g id="g64" clip-path="url(#clipPath1)">
+    <polyline points="1083,886 1483,886 1483,1048 1083,1048 1083,886" style="stroke: black; stroke-width: 1; fill: none;" id="polyline2"/>
+    <line x1="1083" y1="922" x2="1483" y2="922" style="stroke: black; stroke-width: 1; fill: none;" id="line2"/>
+    <line x1="1083" y1="976" x2="1483" y2="976" style="stroke: black; stroke-width: 1; fill: none;" id="line3"/>
+    <line x1="1083" y1="1012" x2="1483" y2="1012" style="stroke: black; stroke-width: 1; fill: none;" id="line4"/>
+    <line x1="1403" y1="976" x2="1403" y2="1012" style="stroke: black; stroke-width: 1; fill: none;" id="line5"/>
+    <line x1="1216.3333333333333" y1="1012" x2="1216.3333333333333" y2="1048" style="stroke: black; stroke-width: 1; fill: none;" id="line6"/>
+    <line x1="1403" y1="1012" x2="1403" y2="1048" style="stroke: black; stroke-width: 1; fill: none;" id="line7"/>
+    <text x="1092" y="897.5" style="font-size: 13px; font-family: Arial; white-space: pre;" id="text7">Title</text>
+    <text x="1092" y="933.5" style="font-size: 13px; font-family: Arial; white-space: pre;" id="text8">Author</text>
+    <text x="1092" y="987.5" style="font-size: 13px; font-family: Arial; white-space: pre;" id="text9">File</text>
+    <text x="1092" y="1023.5" style="font-size: 13px; font-family: Arial; white-space: pre;" id="text10">Revision</text>
+    <text x="1412" y="987.5" style="font-size: 13px; font-family: Arial; white-space: pre;" id="text11">Document</text>
+    <text x="1225.3333333333333" y="1023.5" style="font-size: 13px; font-family: Arial; white-space: pre;" id="text12">Date</text>
+    <text x="1412" y="1023.5" style="font-size: 13px; font-family: Arial; white-space: pre;" id="text13">Sheets</text>
+    <text x="1101" y="915.5" style="font-size: 13px; font-family: Arial; white-space: pre;" id="text14"/>
+    <text x="1101" y="951.5" style="font-size: 13px; font-family: Arial; white-space: pre;" id="text15"/>
+    <text x="1101" y="969.5" style="font-size: 13px; font-family: Arial; white-space: pre;" id="text16"/>
+    <text x="1101" y="1041.5" style="font-size: 13px; font-family: Arial; white-space: pre;" id="text17">1.0</text>
+    <text x="1421" y="1005.5" style="font-size: 13px; font-family: Arial; white-space: pre;" id="text18"/>
+    <text x="1421" y="1041.5" style="font-size: 13px; font-family: Arial; white-space: pre;" id="text19">1 of 1</text>
+    <text x="1101" y="1005.5" style="font-size: 13px; font-family: Arial; white-space: pre;" id="text20"/>
+    <text x="1234.3333333333333" y="1041.5" style="font-size: 13px; font-family: Arial; white-space: pre;" id="text21"/>
+    <ellipse cx="236" cy="246.5" rx="150" ry="154.5" style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 2;" id="ellipse21"/>
+    <ellipse cx="231" cy="242.5" rx="92" ry="90.5" style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 2;" id="ellipse22"/>
+    <rect x="230" y="147" rx="0" ry="0" width="7.330078125" height="12" style="fill: none;" id="rect22"/>
+    <g transform="translate( 230 148)" id="g22">
+      <text x="1" y="10" fill="#000000" style="pointer-events: none; font-size: 10px; font-family: Arial; font-weight: normal; font-style: normal; white-space: pre;" id="text22"><tspan id="tspan22">-</tspan></text>
+    </g>
+    <ellipse cx="228" cy="153.5" rx="5" ry="6.5" style="fill: rgb(0, 0, 255); stroke: rgb(0, 0, 0); stroke-width: 2;" id="ellipse23"/>
+    <ellipse cx="233" cy="331.5" rx="5" ry="6.5" style="fill: rgb(0, 0, 255); stroke: rgb(0, 0, 0); stroke-width: 2;" id="ellipse24"/>
+    <ellipse cx="218" cy="399.5" rx="5" ry="6.5" style="fill: rgb(0, 0, 255); stroke: rgb(0, 0, 0); stroke-width: 2;" id="ellipse25"/>
+    <ellipse cx="88" cy="260.5" rx="5" ry="6.5" style="fill: rgb(0, 0, 255); stroke: rgb(0, 0, 0); stroke-width: 2;" id="ellipse26"/>
+    <ellipse cx="94" cy="199.5" rx="5" ry="6.5" style="fill: rgb(0, 0, 255); stroke: rgb(0, 0, 0); stroke-width: 2;" id="ellipse27"/>
+    <ellipse cx="227" cy="94.5" rx="5" ry="6.5" style="fill: rgb(0, 0, 255); stroke: rgb(0, 0, 0); stroke-width: 2;" id="ellipse28"/>
+    <ellipse cx="272" cy="97.5" rx="5" ry="6.5" style="fill: rgb(0, 0, 255); stroke: rgb(0, 0, 0); stroke-width: 2;" id="ellipse29"/>
+    <ellipse cx="383" cy="213.5" rx="5" ry="6.5" style="fill: rgb(0, 0, 255); stroke: rgb(0, 0, 0); stroke-width: 2;" id="ellipse30"/>
+    <ellipse cx="385" cy="256.5" rx="5" ry="6.5" style="fill: rgb(0, 0, 255); stroke: rgb(0, 0, 0); stroke-width: 2;" id="ellipse31"/>
+    <ellipse cx="253" cy="399.5" rx="5" ry="6.5" style="fill: rgb(0, 0, 255); stroke: rgb(0, 0, 0); stroke-width: 2;" id="ellipse32"/>
+    <ellipse cx="243" cy="241.5" rx="213" ry="208.5" style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 2;" id="ellipse33"/>
+    <ellipse cx="215" cy="445" rx="5" ry="5" style="fill: rgb(0, 0, 255); stroke: rgb(0, 0, 0); stroke-width: 2;" id="ellipse34"/>
+    <ellipse cx="230" cy="239.5" rx="20" ry="19.5" style="fill: rgb(0, 128, 64); stroke: rgb(255, 0, 0); stroke-width: 2;" id="ellipse35"/>
+    <rect x="217" y="235" rx="0" ry="0" width="19.2685546875" height="12" style="fill: none;" id="rect35"/>
+    <g transform="translate( 217 236)" id="g35">
+      <text x="1" y="10" fill="#ffffff" style="pointer-events: none; font-size: 10px; font-family: &quot;Arial Rounded MT Bold&quot;; font-weight: normal; font-style: normal; white-space: pre;" id="text35"><tspan id="tspan35">17+</tspan></text>
+    </g>
+    <rect x="-107" y="23" rx="0" ry="0" width="14" height="12" style="fill: none;" id="rect36"/>
+    <g transform="translate( -107 24)" id="g36">
+      <text x="1" y="10" fill="#ffffff" style="pointer-events: none; font-size: 10px; font-family: &quot;Arial Rounded MT Bold&quot;; font-weight: normal; font-style: normal; white-space: pre;" id="text36"><tspan id="tspan36">13</tspan></text>
+    </g>
+    <rect x="386" y="10" rx="0" ry="0" width="14" height="12" style="fill: none;" id="rect37"/>
+    <g transform="translate( 386 11)" id="g37">
+      <text x="1" y="10" fill="#ffffff" style="pointer-events: none; font-size: 10px; font-family: &quot;Arial Rounded MT Bold&quot;; font-weight: normal; font-style: normal; white-space: pre;" id="text37"><tspan id="tspan37">13</tspan></text>
+    </g>
+    <ellipse cx="195" cy="36.5" rx="5" ry="6.5" style="fill: rgb(0, 0, 255); stroke: rgb(0, 0, 0); stroke-width: 2;" id="ellipse37"/>
+    <ellipse cx="35" cy="206.5" rx="5" ry="6.5" style="fill: rgb(0, 0, 255); stroke: rgb(0, 0, 0); stroke-width: 2;" id="ellipse38"/>
+    <ellipse cx="253.9999885559082" cy="35" rx="3.999988555908203" ry="5" style="fill: rgb(0, 0, 255); stroke: rgb(0, 0, 0); stroke-width: 2;" id="ellipse39"/>
+    <ellipse cx="265" cy="445" rx="5" ry="5" style="fill: rgb(0, 0, 255); stroke: rgb(0, 0, 0); stroke-width: 2;" id="ellipse40"/>
+    <ellipse cx="455" cy="215" rx="5" ry="5" style="fill: rgb(0, 0, 255); stroke: rgb(0, 0, 0); stroke-width: 2;" id="ellipse41"/>
+    <ellipse cx="35" cy="265" rx="5" ry="5" style="fill: rgb(0, 0, 255); stroke: rgb(0, 0, 0); stroke-width: 2;" id="ellipse42"/>
+    <ellipse cx="730" cy="264.5" rx="150" ry="154.5" style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 2;" id="ellipse43"/>
+    <ellipse cx="725" cy="260.5" rx="92" ry="90.5" style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 2;" id="ellipse44"/>
+    <rect x="724" y="165" rx="0" ry="0" width="7.330078125" height="12" style="fill: none;" id="rect44"/>
+    <g transform="translate( 724 166)" id="g44">
+      <text x="1" y="10" fill="#000000" style="pointer-events: none; font-size: 10px; font-family: Arial; font-weight: normal; font-style: normal; white-space: pre;" id="text44"><tspan id="tspan44">-</tspan></text>
+    </g>
+    <ellipse cx="722" cy="171.5" rx="5" ry="6.5" style="fill: rgb(0, 0, 255); stroke: rgb(0, 0, 0); stroke-width: 2;" id="ellipse45"/>
+    <ellipse cx="727" cy="349.5" rx="5" ry="6.5" style="fill: rgb(0, 0, 255); stroke: rgb(0, 0, 0); stroke-width: 2;" id="ellipse46"/>
+    <ellipse cx="712" cy="417.5" rx="5" ry="6.5" style="fill: rgb(0, 0, 255); stroke: rgb(0, 0, 0); stroke-width: 2;" id="ellipse47"/>
+    <ellipse cx="582" cy="278.5" rx="5" ry="6.5" style="fill: rgb(0, 0, 255); stroke: rgb(0, 0, 0); stroke-width: 2;" id="ellipse48"/>
+    <ellipse cx="588" cy="217.5" rx="5" ry="6.5" style="fill: rgb(0, 0, 255); stroke: rgb(0, 0, 0); stroke-width: 2;" id="ellipse49"/>
+    <ellipse cx="721" cy="112.5" rx="5" ry="6.5" style="fill: rgb(0, 0, 255); stroke: rgb(0, 0, 0); stroke-width: 2;" id="ellipse50"/>
+    <ellipse cx="766" cy="115.5" rx="5" ry="6.5" style="fill: rgb(0, 0, 255); stroke: rgb(0, 0, 0); stroke-width: 2;" id="ellipse51"/>
+    <ellipse cx="877" cy="231.5" rx="5" ry="6.5" style="fill: rgb(0, 0, 255); stroke: rgb(0, 0, 0); stroke-width: 2;" id="ellipse52"/>
+    <ellipse cx="879" cy="274.5" rx="5" ry="6.5" style="fill: rgb(0, 0, 255); stroke: rgb(0, 0, 0); stroke-width: 2;" id="ellipse53"/>
+    <ellipse cx="747" cy="417.5" rx="5" ry="6.5" style="fill: rgb(0, 0, 255); stroke: rgb(0, 0, 0); stroke-width: 2;" id="ellipse54"/>
+    <ellipse cx="737" cy="259.5" rx="213" ry="208.5" style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 2;" id="ellipse55"/>
+    <ellipse cx="709" cy="463" rx="5" ry="5" style="fill: rgb(0, 0, 255); stroke: rgb(0, 0, 0); stroke-width: 2;" id="ellipse56"/>
+    <ellipse cx="724" cy="257.5" rx="20" ry="19.5" style="fill: rgb(0, 128, 64); stroke: rgb(255, 0, 0); stroke-width: 2;" id="ellipse57"/>
+    <rect x="711" y="253" rx="0" ry="0" width="19.2685546875" height="12" style="fill: none;" id="rect57"/>
+    <g transform="translate( 711 254)" id="g57">
+      <text x="1" y="10" fill="#ffffff" style="pointer-events: none; font-size: 10px; font-family: &quot;Arial Rounded MT Bold&quot;; font-weight: normal; font-style: normal; white-space: pre;" id="text57"><tspan id="tspan57">17+</tspan></text>
+    </g>
+    <rect x="880" y="28" rx="0" ry="0" width="14" height="12" style="fill: none;" id="rect58"/>
+    <g transform="translate( 880 29)" id="g58">
+      <text x="1" y="10" fill="#ffffff" style="pointer-events: none; font-size: 10px; font-family: &quot;Arial Rounded MT Bold&quot;; font-weight: normal; font-style: normal; white-space: pre;" id="text58"><tspan id="tspan58">13</tspan></text>
+    </g>
+    <ellipse cx="689" cy="54.5" rx="5" ry="6.5" style="fill: rgb(0, 0, 255); stroke: rgb(0, 0, 0); stroke-width: 2;" id="ellipse58"/>
+    <ellipse cx="529" cy="224.5" rx="5" ry="6.5" style="fill: rgb(0, 0, 255); stroke: rgb(0, 0, 0); stroke-width: 2;" id="ellipse59"/>
+    <ellipse cx="747.9999885559082" cy="53" rx="3.999988555908203" ry="5" style="fill: rgb(0, 0, 255); stroke: rgb(0, 0, 0); stroke-width: 2;" id="ellipse60"/>
+    <ellipse cx="759" cy="463" rx="5" ry="5" style="fill: rgb(0, 0, 255); stroke: rgb(0, 0, 0); stroke-width: 2;" id="ellipse61"/>
+    <ellipse cx="949" cy="233" rx="5" ry="5" style="fill: rgb(0, 0, 255); stroke: rgb(0, 0, 0); stroke-width: 2;" id="ellipse62"/>
+    <ellipse cx="949" cy="283" rx="5" ry="5" style="fill: rgb(248, 231, 28); stroke: rgb(0, 0, 0); stroke-width: 2;" id="ellipse63"/>
+    <ellipse cx="525" cy="275" rx="5" ry="5" style="fill: rgb(0, 0, 255); stroke: rgb(0, 0, 0); stroke-width: 2;" id="ellipse64"/>
+  </g>
+</svg>
