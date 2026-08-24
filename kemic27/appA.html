@@ -1,0 +1,311 @@
+<!doctype html>
+<html lang="da">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Kemi C for HF - App. A</title>
+        <link rel="icon" type="image/x-icon" href="figurer/atom.png" />
+        <link rel="stylesheet" href="style.css" />
+    </head>
+    <body>
+        <header>
+            <div id="menu-placeholder"></div>
+            <script>
+                fetch("menu.html")
+                    .then((response) => response.text())
+                    .then((data) => {
+                        document.getElementById("menu-placeholder").innerHTML =
+                            data;
+                    });
+            </script>
+        </header>
+        <div class="container">
+            <h1>Appendix A: Udvalgte ioner</h1>
+
+            <h2>Simple ioner</h2>
+
+            <p>
+                Generelt kan simple ioners ladning bestemmes ud fra deres
+                placering i det periodiske system.
+            </p>
+
+            <p>Skemaet viser det generelle mønster.</p>
+            <table class="streg-tabel">
+                <tr>
+                    <td>Gruppe</td>
+                    <td>1</td>
+                    <td>2</td>
+                    <td>13</td>
+                    <td>14</td>
+                    <td>15</td>
+                    <td>16</td>
+                    <td>17</td>
+                    <td>18</td>
+                </tr>
+                <tr>
+                    <td>Hovedgruppe</td>
+                    <td>1</td>
+                    <td>2</td>
+                    <td>3</td>
+                    <td>4</td>
+                    <td>5</td>
+                    <td>6</td>
+                    <td>7</td>
+                    <td>8</td>
+                </tr>
+                <tr>
+                    <td>Ladning</td>
+                    <td>+1</td>
+                    <td>+2</td>
+                    <td>+3</td>
+                    <td>+4</td>
+                    <td>-3</td>
+                    <td>-2</td>
+                    <td>-1</td>
+                    <td>ingen ioner</td>
+                </tr>
+            </table>
+
+            <p>Tabellen nedenunder giver en række eksempler.</p>
+            <table class="streg-tabel">
+                <tr>
+                    <th colspan="2">Positive simple ioner</th>
+                    <th colspan="2">Negative simple ioner</th>
+                </tr>
+                <tr>
+                    <td>Li<sup>+</sup></td>
+                    <td>lithium</td>
+                    <td>F<sup>-</sup></td>
+                    <td>fluorid</td>
+                </tr>
+                <tr>
+                    <td>Na<sup>+</sup></td>
+                    <td>natrium</td>
+                    <td>Cl<sup>-</sup></td>
+                    <td>chlorid</td>
+                </tr>
+                <tr>
+                    <td>K<sup>+</sup></td>
+                    <td>kalium</td>
+                    <td>Br<sup>-</sup></td>
+                    <td>bromid</td>
+                </tr>
+                <tr>
+                    <td>Be<sup>2+</sup></td>
+                    <td>beryllium</td>
+                    <td>I<sup>-</sup></td>
+                    <td>iodid</td>
+                </tr>
+                <tr>
+                    <td>Mg<sup>2+ </sup></td>
+                    <td>magnesium</td>
+                    <td>O<sup>2-</sup></td>
+                    <td>oxid</td>
+                </tr>
+                <tr>
+                    <td>Ca<sup>2+</sup></td>
+                    <td>calcium</td>
+                    <td>S<sup>2-</sup></td>
+                    <td>sulfid</td>
+                </tr>
+                <tr>
+                    <td>Sr<sup>2+</sup></td>
+                    <td>strontium</td>
+                    <td>N<sup>3-</sup></td>
+                    <td>nitrid</td>
+                </tr>
+                <tr>
+                    <td>Ba<sup>2+ </sup></td>
+                    <td>barium</td>
+                    <td>P<sup>3-</sup></td>
+                    <td>phosphid</td>
+                </tr>
+                <tr>
+                    <td>Al<sup>3+</sup></td>
+                    <td>aluminium</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Ga<sup>3+</sup></td>
+                    <td>gallium</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+            </table>
+
+            <h2>Sammensatte ioner</h2>
+
+            <table class="streg-tabel">
+                <tr>
+                    <th colspan="2">Positive sammensatte ioner</th>
+                    <th colspan="2">Negative sammensatte ioner</th>
+                </tr>
+                <tr>
+                    <td>NH<sub>4</sub><sup>+</sup></td>
+                    <td>ammonium</td>
+                    <td>BrO<sub>3</sub><sup>-</sup></td>
+                    <td>bromat</td>
+                </tr>
+                <tr>
+                    <td>PH<sub>4</sub><sup>+</sup></td>
+                    <td>phosphanium</td>
+                    <td>CO<sub>3</sub><sup>2-</sup></td>
+                    <td>carbonat</td>
+                </tr>
+                <tr>
+                    <td>SbH<sub>4</sub><sup>+</sup></td>
+                    <td>stibanium</td>
+                    <td>HCO<sub>3</sub><sup>-</sup></td>
+                    <td>hydrogencarbonat</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td>CN<sup>-</sup></td>
+                    <td>cyanid</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td>ClO<sub>4</sub><sup>-</sup></td>
+                    <td>perchlorat</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td>ClO<sub>3</sub><sup>-</sup></td>
+                    <td>chlorat</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td>ClO<sub>2</sub><sup>-</sup></td>
+                    <td>chlorit</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td>ClO<sup>-</sup></td>
+                    <td>hypochlorit</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td>IO<sub>3</sub><sup>-</sup></td>
+                    <td>iodat</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td>I<sub>3</sub><sup>-</sup></td>
+                    <td>triiodid</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td>MnO<sub>4</sub><sup>-</sup></td>
+                    <td>permanganat</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td>MnO<sub>4</sub><sup>2-</sup></td>
+                    <td>manganat</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td>NO<sub>3</sub><sup>-</sup></td>
+                    <td>nitrat</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td>NO<sub>2</sub><sup>-</sup></td>
+                    <td>nitrit</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td>OH<sup>-</sup></td>
+                    <td>hydroxid</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td>O<sub>2</sub><sup>2-</sup></td>
+                    <td>peroxid</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td>PO<sub>4</sub><sup>3-</sup></td>
+                    <td>phosphat</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td>HPO<sub>4</sub><sup>2-</sup></td>
+                    <td>hydrogenphosphat</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td>H<sub>2</sub>PO<sub>4</sub><sup>-</sup></td>
+                    <td>dihydrogenphosphat</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td>SO<sub>4</sub><sup>2-</sup></td>
+                    <td>sulfat</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td>HSO<sub>4</sub>-<sup></sup></td>
+                    <td>hydrogensulfat</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td>SO<sub>3</sub><sup>2-</sup></td>
+                    <td>sulfit</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td>HSO<sub>3</sub><sup>-</sup></td>
+                    <td>hydrogensulfit</td>
+                </tr>
+
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td>S<sub>2</sub>O<sub>3</sub><sup>2- </sup></td>
+                    <td>thiosulfat</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td>SCN<sup>-</sup></td>
+                    <td>thiocyanat</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td>HS<sup>-</sup></td>
+                    <td>hydrogensulfid</td>
+                </tr>
+            </table>
+        </div>
+
+        <footer>
+            <div class="button-container">
+                <a href="kap14.html" class="next-btn">&larr;Forrige </a>
+                <a href="appB.html" class="next-btn">Næste &rarr;</a>
+            </div>
+        </footer>
+    </body>
+</html>

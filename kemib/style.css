@@ -112,3 +112,11 @@ footer {
         order: -1; /* Flyt menuen øverst på mobil, hvis det ønskes - fjern denne linje, hvis den skal ligge i bunden */
     }
 }
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}

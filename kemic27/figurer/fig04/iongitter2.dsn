@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--This file was written by TinyCAD Version 2.80.03 Build #514 Production Release
+If you wish to view this file go to http://tinycad.sourceforge.net to
+download a copy.-->
+<TinyCADSheets>
+	<TinyCAD>
+		<NAME>Sheet 1</NAME>
+		<DETAILS>
+			<Size width='1485' height='1050'/>
+			<GUIDES horiz='7' vert='5'/>
+			<TITLE></TITLE>
+			<AUTHOR></AUTHOR>
+			<REVISION>1.0</REVISION>
+			<DOCNUMBER></DOCNUMBER>
+			<ORGANISATION></ORGANISATION>
+			<SHEETS>1 of 1</SHEETS>
+			<SHOWS>1</SHOWS>
+			<DATE></DATE>
+			<GRID spacing='100.00000' snap='0'/>
+		</DETAILS>
+		<STYLE id='2'>
+			<STYLE>0</STYLE>
+			<COLOR>000000</COLOR>
+			<THICKNESS>1</THICKNESS>
+		</STYLE>
+		<FILL id='0'>
+			<INDEX>-1</INDEX>
+			<COLOR>000000</COLOR>
+		</FILL>
+		<FILL id='2'>
+			<INDEX>0</INDEX>
+			<COLOR>0000FF</COLOR>
+		</FILL>
+		<FILL id='3'>
+			<INDEX>0</INDEX>
+			<COLOR>FF0000</COLOR>
+		</FILL>
+		<OPTIONS>
+			<GRID>0</GRID>
+			<UNITS>0</UNITS>
+			<COLOR_WIRE>FF0000</COLOR_WIRE>
+			<COLOR_BUS>0000FF</COLOR_BUS>
+			<COLOR_JUNCTION>000000</COLOR_JUNCTION>
+			<COLOR_NOCONNECT>000000</COLOR_NOCONNECT>
+			<COLOR_LABEL>208000</COLOR_LABEL>
+			<COLOR_POWER>000000</COLOR_POWER>
+			<COLOR_PIN>4040C0</COLOR_PIN>
+			<COLOR_HIDDEN_PIN>208020</COLOR_HIDDEN_PIN>
+			<COLOR_BACKGROUND>FFFFFF</COLOR_BACKGROUND>
+		</OPTIONS>
+		<RECTANGLE a='53.00000,44.60000' b='112.80000,99.80000' style='2' fill='0'/>
+		<POLYGON pos='82.60000,44.20000' style='2' fill='0'>
+			<POINT pos='0.00000,0.00000' arc='0'/>
+			<POINT pos='0.00000,55.40000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='53.00000,70.20000' style='2' fill='0'>
+			<POINT pos='0.00000,0.00000' arc='0'/>
+			<POINT pos='59.80000,0.00000' arc='0'/>
+		</POLYGON>
+		<RECTANGLE a='63.20000,33.20000' b='123.00000,88.40000' style='2' fill='0'/>
+		<POLYGON pos='92.80000,32.80000' style='2' fill='0'>
+			<POINT pos='0.00000,0.00000' arc='0'/>
+			<POINT pos='0.00000,55.40000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='63.20000,58.80000' style='2' fill='0'>
+			<POINT pos='0.00000,0.00000' arc='0'/>
+			<POINT pos='59.80000,0.00000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='53.00000,33.40000' style='2' fill='0'>
+			<POINT pos='10.40000,0.00000' arc='0'/>
+			<POINT pos='0.00000,11.20000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='82.40000,33.00000' style='2' fill='0'>
+			<POINT pos='10.40000,0.00000' arc='0'/>
+			<POINT pos='0.00000,11.60000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='112.20000,33.40000' style='2' fill='0'>
+			<POINT pos='10.40000,0.00000' arc='0'/>
+			<POINT pos='0.00000,11.60000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='53.20000,58.40000' style='2' fill='0'>
+			<POINT pos='10.40000,0.00000' arc='0'/>
+			<POINT pos='0.00000,11.60000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='82.40000,58.60000' style='2' fill='0'>
+			<POINT pos='10.40000,0.00000' arc='0'/>
+			<POINT pos='0.00000,11.60000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='112.40000,58.80000' style='2' fill='0'>
+			<POINT pos='10.40000,0.00000' arc='0'/>
+			<POINT pos='0.00000,11.60000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='52.80000,88.20000' style='2' fill='0'>
+			<POINT pos='10.40000,0.00000' arc='0'/>
+			<POINT pos='0.00000,11.60000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='82.60000,88.00000' style='2' fill='0'>
+			<POINT pos='10.40000,0.00000' arc='0'/>
+			<POINT pos='0.00000,11.60000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='112.20000,88.20000' style='2' fill='0'>
+			<POINT pos='10.40000,0.00000' arc='0'/>
+			<POINT pos='0.00000,11.60000' arc='0'/>
+		</POLYGON>
+		<ELLIPSE a='60.40000,30.80000' b='66.40000,36.80000' style='2' fill='2'/>
+		<ELLIPSE a='60.40000,85.20000' b='66.40000,91.20000' style='2' fill='2'/>
+		<ELLIPSE a='89.40000,55.80000' b='95.40000,61.80000' style='2' fill='2'/>
+		<ELLIPSE a='119.20000,30.60000' b='125.20000,36.60000' style='2' fill='2'/>
+		<ELLIPSE a='119.20000,85.40000' b='125.20000,91.40000' style='2' fill='2'/>
+		<ELLIPSE a='49.40000,67.60000' b='55.40000,73.60000' style='2' fill='2'/>
+		<ELLIPSE a='79.20000,42.00000' b='85.20000,48.00000' style='2' fill='2'/>
+		<ELLIPSE a='79.80000,96.40000' b='85.80000,102.40000' style='2' fill='2'/>
+		<ELLIPSE a='109.60000,66.80000' b='115.60000,72.80000' style='2' fill='2'/>
+		<ELLIPSE a='61.80000,57.20000' b='65.40000,60.80000' style='2' fill='3'/>
+		<ELLIPSE a='90.80000,32.00000' b='94.40000,35.60000' style='2' fill='3'/>
+		<ELLIPSE a='90.80000,86.40000' b='94.40000,90.00000' style='2' fill='3'/>
+		<ELLIPSE a='120.80000,57.20000' b='124.40000,60.80000' style='2' fill='3'/>
+		<ELLIPSE a='51.40000,43.00000' b='55.00000,46.60000' style='2' fill='3'/>
+		<ELLIPSE a='51.80000,97.80000' b='55.40000,101.40000' style='2' fill='3'/>
+		<ELLIPSE a='81.20000,68.60000' b='84.80000,72.20000' style='2' fill='3'/>
+		<ELLIPSE a='110.20000,98.20000' b='113.80000,101.80000' style='2' fill='3'/>
+		<ELLIPSE a='110.20000,43.40000' b='113.80000,47.00000' style='2' fill='3'/>
+		<RECTANGLE a='182.80000,43.80000' b='242.60000,99.00000' style='2' fill='0'/>
+		<POLYGON pos='212.40000,43.40000' style='2' fill='0'>
+			<POINT pos='0.00000,0.00000' arc='0'/>
+			<POINT pos='0.00000,55.40000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='182.80000,69.40000' style='2' fill='0'>
+			<POINT pos='0.00000,0.00000' arc='0'/>
+			<POINT pos='59.80000,0.00000' arc='0'/>
+		</POLYGON>
+		<RECTANGLE a='193.00000,32.40000' b='252.80000,87.60000' style='2' fill='0'/>
+		<POLYGON pos='222.60000,32.00000' style='2' fill='0'>
+			<POINT pos='0.00000,0.00000' arc='0'/>
+			<POINT pos='0.00000,55.40000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='193.00000,58.00000' style='2' fill='0'>
+			<POINT pos='0.00000,0.00000' arc='0'/>
+			<POINT pos='59.80000,0.00000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='182.80000,32.60000' style='2' fill='0'>
+			<POINT pos='10.40000,0.00000' arc='0'/>
+			<POINT pos='0.00000,11.20000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='212.20000,32.20000' style='2' fill='0'>
+			<POINT pos='10.40000,0.00000' arc='0'/>
+			<POINT pos='0.00000,11.60000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='242.00000,32.60000' style='2' fill='0'>
+			<POINT pos='10.40000,0.00000' arc='0'/>
+			<POINT pos='0.00000,11.60000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='183.00000,57.60000' style='2' fill='0'>
+			<POINT pos='10.40000,0.00000' arc='0'/>
+			<POINT pos='0.00000,11.60000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='212.20000,57.80000' style='2' fill='0'>
+			<POINT pos='10.40000,0.00000' arc='0'/>
+			<POINT pos='0.00000,11.60000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='242.20000,58.00000' style='2' fill='0'>
+			<POINT pos='10.40000,0.00000' arc='0'/>
+			<POINT pos='0.00000,11.60000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='182.60000,87.40000' style='2' fill='0'>
+			<POINT pos='10.40000,0.00000' arc='0'/>
+			<POINT pos='0.00000,11.60000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='212.40000,87.20000' style='2' fill='0'>
+			<POINT pos='10.40000,0.00000' arc='0'/>
+			<POINT pos='0.00000,11.60000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='242.00000,87.40000' style='2' fill='0'>
+			<POINT pos='10.40000,0.00000' arc='0'/>
+			<POINT pos='0.00000,11.60000' arc='0'/>
+		</POLYGON>
+		<ELLIPSE a='190.20000,30.00000' b='196.20000,36.00000' style='2' fill='2'/>
+		<ELLIPSE a='190.20000,84.40000' b='196.20000,90.40000' style='2' fill='2'/>
+		<ELLIPSE a='219.20000,55.00000' b='225.20000,61.00000' style='2' fill='2'/>
+		<ELLIPSE a='249.00000,29.80000' b='255.00000,35.80000' style='2' fill='2'/>
+		<ELLIPSE a='249.00000,84.60000' b='255.00000,90.60000' style='2' fill='2'/>
+		<ELLIPSE a='179.20000,66.80000' b='185.20000,72.80000' style='2' fill='2'/>
+		<ELLIPSE a='209.00000,41.20000' b='215.00000,47.20000' style='2' fill='2'/>
+		<ELLIPSE a='209.60000,95.60000' b='215.60000,101.60000' style='2' fill='2'/>
+		<ELLIPSE a='239.40000,66.00000' b='245.40000,72.00000' style='2' fill='2'/>
+		<ELLIPSE a='191.60000,56.40000' b='195.20000,60.00000' style='2' fill='3'/>
+		<ELLIPSE a='220.60000,31.20000' b='224.20000,34.80000' style='2' fill='3'/>
+		<ELLIPSE a='220.60000,85.60000' b='224.20000,89.20000' style='2' fill='3'/>
+		<ELLIPSE a='250.60000,56.40000' b='254.20000,60.00000' style='2' fill='3'/>
+		<ELLIPSE a='181.20000,42.20000' b='184.80000,45.80000' style='2' fill='3'/>
+		<ELLIPSE a='181.60000,97.00000' b='185.20000,100.60000' style='2' fill='3'/>
+		<ELLIPSE a='211.00000,67.80000' b='214.60000,71.40000' style='2' fill='3'/>
+		<ELLIPSE a='240.00000,97.40000' b='243.60000,101.00000' style='2' fill='3'/>
+		<ELLIPSE a='240.00000,42.60000' b='243.60000,46.20000' style='2' fill='3'/>
+	</TinyCAD>
+</TinyCADSheets>

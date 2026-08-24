@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="da">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Kemi C for HF</title>
+        <link rel="icon" type="image/x-icon" href="figurer/atom.png" />
+        <link rel="stylesheet" href="style.css" />
+    </head>
+    <body>
+        <header>
+            <div id="menu-placeholder"></div>
+            <script>
+                fetch("menu.html")
+                    .then((response) => response.text())
+                    .then((data) => {
+                        document.getElementById("menu-placeholder").innerHTML =
+                            data;
+                    });
+            </script>
+        </header>
+        <div class="container">
+            <h1 style="color: blue;">Kemi C for HF</h1>
+
+
+                <img
+                    src="figurer/forside/iongitter.png"
+                    alt="Forside."
+                    width="200"/>&nbsp;&nbsp;&nbsp;
+
+
+                <img
+                    src="figurer/forside/molekyle.png"
+                    alt="Forside."
+                    width="200"/>&nbsp;&nbsp;&nbsp;
+
+                <img
+                    src="figurer/forside/triglycerid.png"
+                    alt="Forside."
+                    width="250"/>
+
+
+            <p>
+                "Kemi C for HF" der tidligere var en bog (i pdf-format)
+                foreligger nu som website. Indholdet er stort set det sammen som
+                i 2020-versionen af bogen, dog er der foretaget en del
+                ændringer.
+            </p>
+
+            <p>"Kemisk ordbog" indeholder knapt 100 opslagsord pt.</p>
+
+            <p>Nyeste afsnit er "Kemi B" der indtil videre kun indeholder fire artikler om navngivning.</p>
+
+            <p>Hvis du finder fejl eller har forslag til forbedringer, så skriv til hv@ghf.dk (eller send en besked på Lectio hvis du studerer/arbejder på Gentofte HF).</p>
+
+                <!-- Under "Ekstra kemi" fra hovedmenuen kan man finde ekstra materiale til nogle af kapitlerne. -->
+
+
+
+<!--
+-->
+        </p>
+                Henry Vest<br> Gentofte HF<br> Juni 2026
+            </p>
+        </div>
+
+<footer>
+        <div class="button-container">
+                <a href="kap01.html" class="next-btn">Næste &rarr;</a>
+            </div>
+</footer>
+
+    </body>
+</html>

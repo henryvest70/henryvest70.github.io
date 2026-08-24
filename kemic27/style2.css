@@ -1,0 +1,34 @@
+body {
+    margin: 0; /* sikrer at topbjælken går helt til kanten */
+    font-family: Arial, sans-serif;
+}
+
+/* Topbjælken */
+.top {
+    width: 100%; /* Sørger for at den fylder hele bredden */
+    background-color: steelblue; /* Mørkegrå baggrund */
+    color: white; /* Hvid tekst */
+    padding: 10px; /* Luft indeni bjælken (alle fire retninger) */
+    box-sizing: border-box; /* Sikrer at padding ikke gør bjælken bredere end 100% */
+    text-align: center; /* centrerer tekst */
+}
+
+.container {
+    display: flex; /* Aktiverer Flexbox */
+    gap: 20px; /* Laver luft/mellemrum mellem kolonnerne */
+    padding: 20px;
+}
+
+.left {
+    flex: 0 0 75%;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+}
+
+.right {
+    flex: 1; /* den resterende plads */
+    padding: 20px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+}
