@@ -1,0 +1,251 @@
+<!doctype html>
+<html lang="da">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Kemi C for HF - Kap. 16</title>
+        <link rel="icon" type="image/x-icon" href="figurer/atom.png" />
+
+        <link rel="stylesheet" href="style.css" />
+    </head>
+    <body>
+        <header>
+            <div id="menu-placeholder"></div>
+            <script>
+                fetch("menu.html")
+                    .then((response) => response.text())
+                    .then((data) => {
+                        document.getElementById("menu-placeholder").innerHTML =
+                            data;
+                    });
+            </script>
+        </header>
+        <div class="container">
+            <h1>Kapitel 16: Redoxkemi</h1>
+
+            <h2>1. Formål</h2>
+
+            <p>Formålet med dette kapitel er:</p>
+            <ul>
+                <li>at lære hvad redoxreaktioner er.</li>
+                <li>at se nogle konkrete eksempler på redoxreaktioner.</li>
+                <li>at lære om spændingsrækken.</li>
+            </ul>
+
+            <h2>2. Redoxreaktioner</h2>
+
+            <p>
+                Ligesom man kan dele de kemiske forbindelser ind i forskellige
+                stofklasser, kan man dele kemiske reaktioner op i forskellige
+                reaktionstyper. Dette kapitel handler en en type reaktioner der
+                kaldes redoxreaktioner. Redoxreaktioner er en bred klasse af
+                reaktioner. Eksempler på redoxreaktioner er bl.a.:
+            </p>
+            <ul>
+                <li>træ der brænder.</li>
+                <li>jern der ruster.</li>
+                <li>frugt der bliver brunt.</li>
+                <li>metal der opløses i syre.</li>
+            </ul>
+
+            <h2>3. Et eksempel på en redoxreaktion</h2>
+
+            <p>Magnesium kan brænde, jf. reaktionskemaet</p>
+            <p>2Mg(s) + O<sub>2</sub>(g) → 2MgO(s).</p>
+            <p>
+                Man kan opfatte reaktionen som en proces hvor magnesium optager
+                oxygen. Man siger derfor at magnesium er blevet oxideret. Dette
+                er den historiske begrundelse for navnet oxidation (optagelse af
+                oxygen). I dag bruger man dog oxidation i en bredere betydning
+                og efter den moderne definition på oxidation, behøver der ikke
+                indgå oxygen i en oxidationsreaktion.
+            </p>
+
+            <h2>4. Reduktion og oxidation = redox</h2>
+
+            <p>
+                Ved reaktionen hvor magnesium brænder, dannes der en
+                ionforbindelse (magnesiumoxid, MgO) ud fra de to grundstoffer
+                magnesium og oxygen. MgO er opbygget af ionerne Mg<sup>2+</sup>
+                og O<sup>2-</sup>. Ved reaktionen har hvert magnesiumatom
+                afgivet to elektroner (for at opfylde oktetreglen) og hvert
+                oxygenatom har optaget to elektroner.
+            </p>
+
+            <p>
+                Vi indfører nu de moderne definitioner på oxidation og
+                reduktion:
+            </p>
+
+            <p><b>Oxidation:</b> en proces hvor der afgives elektroner.</p>
+            <p><b>Reduktion:</b> en proces hvor der optages elektroner.</p>
+
+            <p>
+                Begreberne har, som før nævnt, en historiske oprindelse. I
+                reaktionen med afbrænding af magnesium, bliver magnesium altså
+                oxideret (afgiver elektroner) og oxygen bliver reduceret
+                (optager elektroner). Da elektroner bliver overført fra et atom
+                til et andet, vil oxidation og reduktion altid finde sted
+                samtidigt. Man kalder derfor denne type reaktioner for
+                redoxreaktioner. Altså: Redox = <b>red</b>uktion +
+                <b>ox</b>idation. Man kan kalde redoxreaktioner for
+                elektronoverførselsreaktioner.
+            </p>
+
+            <h2>5. Elektronregnskab</h2>
+
+            <p>
+                Man kan lave et lille regnskab over antallet at overførte
+                elektroner. I eksemplet med magnesium, afgiver 2 magnesiumatomer
+                hver 2 elektroner (altså i alt 4 elektroner) og 2 oxygenatomer
+                optager hver 2 elektroner (altså også i alt 4 elektroner). Der
+                afgives og optages altid lige mange elektroner.
+            </p>
+
+            <h2>6. Flere eksempler på redox</h2>
+
+            <p>
+                Hvis en kobbertråd kommes ned i sølvnitrat, opløses tråden
+                langsomt og der dannes frit sølv. Reaktionsskemaet er:
+            </p>
+
+            <p>
+                Cu(s) + 2AgNO<sub>3</sub>(aq) →
+                Cu(NO<sub>3</sub>)<sub>2</sub>(aq) + 2Ag(s).
+            </p>
+
+            <p>
+                Skrevet alene med de relevante ioner, ser reaktionsskemaet
+                således ud:
+            </p>
+
+            <p>Cu(s) + 2Ag<sup>+</sup>(aq) → Cu<sup>2+</sup>(aq) + 2Ag(s).</p>
+
+            <p>
+                Her er kobber blevet oxideret (afgivet elektroner), mens sølv er
+                blevet reduceret (optaget elektroner). Der er i alt overført 2
+                elektroner fra kobber til sølv.
+            </p>
+
+            <p>
+                Hvis ståluld (der primært består af jern) kommer ned i
+                kobber(2+)sulfat, ser man at stålulden langsomt opløses og der
+                dannes et rødt stof. Det røde stof er frit kobber.
+                Reaktionsskemaet er:
+            </p>
+
+            <p>Fe(s) + CuSO<sub>4</sub>(aq) → FeSO<sub>4</sub>(aq) + Cu(s).</p>
+
+            <p>Eller alene med ioner:</p>
+
+            <p>Fe(s) + Cu<sup>2+</sup>(aq) → Fe<sup>2+</sup>(aq) + Cu(s).</p>
+
+            <p>
+                Her er jern blevet oxideret og kobber reduceret. Der er i alt
+                overført 2 elektroner.
+            </p>
+
+            <h2>7. Delreaktioner</h2>
+
+            <p>
+                Man kan dele redoxreaktionen op i to reaktioner, en oxidation og
+                en reduktion. Her bruges eksemplet fra forrige afsnit.
+            </p>
+
+            <p>Først oxideres jern (afgiver elektroner):</p>
+
+            <p>Fe → Fe<sup>2+</sup> + 2e<sup>-</sup> (oxidation),</p>
+
+            <p>så reduceres kobber:</p>
+
+            <p>Cu<sup>2+</sup> + 2e<sup>-</sup> → Cu (reduktion).</p>
+
+            <p>
+                Lægger man de to reaktionsskemaer sammen, får man
+                bruttoreaktionsskemaet:
+            </p>
+
+            <p>Fe(s) + Cu<sup>2+</sup>(aq) → Fe<sup>2+</sup>(aq) + Cu(s).</p>
+
+            <h2>8. Spændingsrækken</h2>
+
+            <p>
+                Spændingsrækken er en opstilling af metallerne (og hydrogen)
+                efter reaktionsvillighed. Metallerne til venstre i
+                spændingsrækken er reaktionsvillige og går let i forbindelse med
+                andre stoffer. Metallerne til højre i spændingsrækken er
+                reaktionstræge og indgår ikke så let i kemiske forbindelser. De
+                kan derfor findes frit i naturen; det gælder fx guld og sølv.
+                Disse reaktionstræge metaller kaldes for ædelmetaller.
+            </p>
+
+            <figure>
+                <img
+                    src="figurer/fig16/spændinsrækken.png"
+                    alt="Spændingsrækken. Metallerne til venstre er reaktionsvillige, metallerne til højre er reaktionstræge (ædle)."
+                    width="600"
+                />
+                <figcaption>
+                    Figur 16.1: Spændingsrækken. Metallerne til venstre er
+                    reaktionsvillige, metallerne til højre er reaktionstræge
+                    (ædle).
+                </figcaption>
+            </figure>
+
+            <p>
+                Man kan bruge spændingsrækken til at forudsige reaktionen mellem
+                to stoffer. Som eksempel vælger vi jern og sølv. Jern (Fe) står
+                til venstre for sølv (Ag) i spændingsrækken. Det betyder at jern
+                har større tilbøjelighed end sølv til at indgå i kemiske
+                forbindelser og dermed være på ionform. Hvis vi lægger et stykke
+                jern i en opløsning af sølv(1+)nitrat, vil der ske følgende
+                reaktion:
+            </p>
+
+            <p>Fe(s) + 2Ag<sup>+</sup>(aq) → Fe2<sup>+</sup>(aq) + 2Ag(s),</p>
+
+            <p>eller skrevet med stofformler:</p>
+
+            <p>
+                Fe(s) + 2AgNO<sub>3</sub>(aq) →
+                Fe(NO<sub>3</sub>)<sub>2</sub>(aq) + 2Ag(s).
+            </p>
+
+            <p>
+                Hvis men derimod lægger et stykke sølv i en opløsning med
+                jern(2+)ioner (fx fra jern(2+)nitrat), så vil der ikke ske nogen
+                reaktion.
+            </p>
+
+            <h2>9. Forbrændingsreaktioner</h2>
+
+            <p>
+                Alle forbrændingsreaktioner, fx afbrænding af methan:
+                CH<sub>4</sub>(g) + 2O<sub>2</sub>(g) → CO<sub>2</sub>(g) +
+                2H<sub>2</sub>O(g), er redoxreaktioner. Her er det C der bliver
+                oxideret og O der bliver reduceret. Det er dog vanskeligere at
+                holde styr på elektronregnskabet her, da de kemiske forbindelser
+                ikke er opbygget af ioner. Et regnskab over elektronerne kræver
+                indførsel af et begreb man kalder oxidationstal. Dette vil vi
+                dog ikke komme ind på i kemi på C-niveau.
+            </p>
+
+            <h2>10: Kernebegreber</h2>
+            <ul>
+                <li>Redox.</li>
+                <li>Reduktion.</li>
+                <li>Oxidation.</li>
+                <li>Elektronregnskab.</li>
+                <li>Spændingsrækken.</li>
+                <li>Forbrændingsreaktioner.</li>
+            </ul>
+        </div>
+
+        <footer>
+            <div class="button-container">
+                <a href="kap15.html" class="next-btn">&larr;Forrige </a>
+                <a href="appA.html" class="next-btn">Næste &rarr;</a>
+            </div>
+        </footer>
+    </body>
+</html>
