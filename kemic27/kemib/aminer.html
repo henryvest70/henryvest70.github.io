@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="da">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Aminer</title>
+        <link rel="icon" type="image/x-icon" href="../figurer/atom.png" />
+        <link rel="stylesheet" href="style.css" />
+    </head>
+    <body>
+        <header>
+            <script>
+                fetch("menu.html")
+                    .then((response) => response.text())
+                    .then((data) => {
+                        document.getElementById("menu-container").innerHTML =
+                            data;
+                    });
+            </script>
+            <h1>Kemi B: Navngivning af aminer</h1>
+        </header>
+
+        <div class="container">
+            <main>
+                <h2>Strukturen af aminer</h2>
+
+                <p>
+                    Man kan opfatte aminer som afledt fra ammoniak
+                    (NH<sub>3</sub>). Hvert af H'erne kan erstattes af en
+                    alkylgruppe (methyl, ethyl ...).Vi kan dele aminerne op i
+                    primære, sekundære og tertiære, som det fremgår af figuren
+                    nedenunder. R repræsenterer en alkylgruppe.
+                </p>
+                <img src="figurer/aminer-struktur.jpg" alt="" width="400" />
+
+                <h2>Navngivning af aminer</h2>
+
+                <p>
+                    Vi kan navngive aminerne efter to metoder. De vil her blive
+                    kaldt metode 1 og metode 2. Efter den første metode tager
+                    man udgangspunkt i den længste kæde og betragter de andre
+                    alkylgrupper som substituenter der navngives efter
+                    sædvanlige regler. Efter den anden metoder betragter man
+                    alle alkylgrupper som substituenter. Metoder 2 giver i nogle
+                    tilfælde simplere navne, det vil fremgå længere nede.
+                </p>
+
+                <h2>Metode 1, primære aminer</h2>
+
+                <p>
+                    Hvis vi udskifer ét H i ammoniak med en alkylgruppe, får vi
+                    en primær amin. Hvis alkylgruppen er methyl, hedder aminen
+                    methanamin. Tilsvarende hvis alkylgruppe er ethyl, får vi
+                    ethanamin. Hvis alkylgruppen er propyl, får vi to
+                    muligheder, hvilket giver propan-1-amin og propan2-amin, se
+                    figuren.
+                </p>
+
+                <img src="figurer/aminer-m1-primære.jpg" alt="" width="600" />
+
+                <p>Hvis der er sidekæder, navngives der på sædvanlig vis.</p>
+
+                <img
+                    src="figurer/aminer-m1-primære-sidekæder.jpg"
+                    alt=""
+                    width="600"
+                />
+
+                <h2>Metode 1, sekundære og tertiære aminer</h2>
+
+                <p>
+                    Hvis der er to eller tre substituenter på N'et, regnes de to
+                    korte kæder for sidekæder der er bundet til N. For at angive
+                    at de er bundet til N, bruges netop et N(!) til at angive
+                    substituentens placering.
+                </p>
+
+                <img src="figurer/aminer-m1-sekundære.jpg" alt="" width="700" />
+
+                <p>
+                    Hvis der er flere N-atomer i aminet og der sidder sidekæder
+                    på en eller flere af dem, må man nummerere N-atomerne.
+                    Eksemplet herunder viser hvordan. Bemærk at N-atomerne
+                    nummereres efter det C-atom de er bundet til.
+                </p>
+
+                <img
+                    src="figurer/aminer-m1-sekundære2.png"
+                    alt=""
+                    width="500"
+                />
+
+                <h2>Metode 2</h2>
+
+                <p>
+                    I metode 2 tager man udgangspunkt i N'et og nævner de op til
+                    tre substituenter i alfabetisk rækkefølge (man bruger
+                    naturligvis også de sædvanlige præfikser di og tri).
+                </p>
+
+                <img src="figurer/aminer-m2.jpg" alt="" width="500" />
+
+                <h2>Sammenligning</h2>
+
+                <p>
+                    Som tidligere nævnt, så giver metode 2 i nogle tilfælde lidt
+                    simplere navne. Et par eksempler illustrerer det.
+                </p>
+
+                <img
+                    src="figurer/aminer-sammenligning.jpg"
+                    alt=""
+                    width="800"
+                />
+            </main>
+
+            <aside>
+                <!-- her skal menuen være -->
+                <div id="menu-container"></div>
+            </aside>
+        </div>
+
+        <footer></footer>
+    </body>
+</html>

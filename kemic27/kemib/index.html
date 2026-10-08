@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="da">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Kemi B</title>
+        <link rel="icon" type="image/x-icon" href="../figurer/atom.png" />
+        <link rel="stylesheet" href="style.css" />
+    </head>
+    <body>
+        <header>
+            <script>
+                fetch("menu.html")
+                    .then((response) => response.text())
+                    .then((data) => {
+                        document.getElementById("menu-container").innerHTML =
+                            data;
+                    });
+            </script>
+            <h1>Kemi B</h1>
+        </header>
+
+        <div class="container">
+            <main>
+                <h2>Kemisk navngivning</h2>
+                <p>
+                    Her ligger der nogle få artikler om kemisk navngivning
+                    (beregnet ti B-niveau). Brug menuen til højre.
+                </p>
+
+                <p>
+                    Hvis du finder fejl eller har forslag til forbedringer, så
+                    skriv til hv@ghf.dk (eller send en besked på Lectio hvis du
+                    studerer/arbejder på Gentofte HF).
+                </p>
+            </main>
+
+            <aside>
+                <!-- her skal menuen være -->
+                <div id="menu-container"></div>
+            </aside>
+        </div>
+
+        <footer></footer>
+    </body>
+</html>
