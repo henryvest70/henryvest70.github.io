@@ -47,6 +47,12 @@
                 [H<sub>3</sub>O<sup>+</sup>] skal læses om "stofmængdekoncentrationen af oxonium".
             </P>
 
+            <p>Hvis man har brug for at beregne stofmængdekoncentrationen af oxonium-ioner ud fra pH, bruger man:</p>
+
+            <p style="background-color: yellow; padding: 10px;">
+                [H<sub>3</sub>O<sup>+</sup>] = 10<sup>-pH</sup> mol/L.
+            </p>
+
             <h2>Beregning af pH</h2>
             <p>
                 Indtast koncentrationen af oxonium-ioner
@@ -90,7 +96,50 @@
                 />
             </p>
 
-            <p></p>
+            <h2>Beregning af [H<sub>3</sub>O<sup>+</sup>]</h2>
+            <p>
+                Indtast pH og tryk på "Beregn [H<sub>3</sub>O<sup>+</sup>]".
+            </p>
+
+            <p>
+                <label for="pH2">pH:</label>
+                <input
+                    type="number"
+                    id="pH2"
+                    name="pH2"
+                    placeholder=7,00
+                    style="width: 80px"
+                    value=7,00
+                />
+                <button type="button" onclick="beregn_konc()">Beregn [H<sub>3</sub>O<sup>+</sup>]</button>
+            </p>
+
+            <p>
+                Ud fra den indtastede værdi af pH er [H<sub>3</sub>O<sup>+</sup>]:
+                <input
+                    type="number"
+                    id="konc2_m"
+                    name="konc2_m"
+                    placeholder=1,0
+                    value=1,0
+                    style="width: 50px"
+                    readonly
+                />
+                &times;10<sup>
+                <input
+                    type="number"
+                    id="konc2_e"
+                    name="konc2_e"
+                    placeholder=-7
+                    value=-7
+                    style="width: 50px"
+                    readonly
+                    appearance: textfield
+                    -moz-appearance: textfield;
+                /></sup> mol/L
+            </p>
+
+
         </div>
 
         <footer>
@@ -111,6 +160,25 @@
 
                 document.getElementById("ph").value = pH;
             }
+            function beregn_konc() {
+              const pH2_ = document.getElementById("pH2");
+              const pH2 = pH2_.value;
+              const konc2 = 10**-pH2;
+              resultat = opdelMatematisk(konc2);
+
+              document.getElementById("konc2_m").value = resultat.mantisse.toFixed(2);
+              document.getElementById("konc2_e").value = resultat.eksponent;
+            }
+
+            function opdelMatematisk(tal) {
+              if (tal === 0) return { mantisse: 0, eksponent: 0 };
+              // Find tier-eksponenten ved hjælp af log10
+              const eksponent = Math.floor(Math.log10(Math.abs(tal)));
+              // Beregn mantissen ud fra eksponenten
+              const mantisse = tal / Math.pow(10, eksponent);
+              return { mantisse, eksponent };
+            }
+
         </script>
     </body>
 </html>
